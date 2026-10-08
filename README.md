@@ -22,7 +22,7 @@ To build a Machine Learning model that can estimate laptop prices based on hardw
 
 ## 🎯 Target Variable
 
-**Price**
+ - **Price**
 
 ## 🤖 Machine Learning Models
 
