@@ -1,0 +1,1001 @@
+Product_Name,Brand,RAM_GB,Storage_GB,Processor,GPU,Screen_Size_Inches,Operating_System,Weight_KG,Price
+HP Laptop 0001,HP,4,1024,Intel Core i9,NVIDIA GTX 1650,14.0,Windows 11,2.3,91500
+HP Laptop 0002,HP,64,2048,Intel Core i3,Intel UHD,13.3,Windows 10,1.6,110400
+Dell Laptop 0003,Dell,64,512,AMD Ryzen 7,NVIDIA GTX 1650,16.0,macOS,2.5,131700
+Lenovo Laptop 0004,Lenovo,32,1024,AMD Ryzen 3,AMD Radeon,14.0,macOS,1.4,86000
+HP Laptop 0005,HP,16,1024,AMD Ryzen 3,Intel UHD,16.0,Windows 11,2.8,56600
+HP Laptop 0006,HP,64,1024,AMD Ryzen 5,NVIDIA GTX 1650,13.3,Windows 11,2.3,111300
+HP Laptop 0007,HP,8,256,AMD Ryzen 7,NVIDIA RTX 2050,16.0,macOS,1.5,87500
+ASUS Laptop 0008,ASUS,16,256,Intel Core i7,NVIDIA GTX 1650,14.0,Linux,1.8,76000
+ASUS Laptop 0009,ASUS,16,256,Intel Core i9,Intel UHD,15.6,Linux,1.6,81800
+LG Laptop 0010,LG,16,512,AMD Ryzen 9,NVIDIA RTX 4060,16.0,Windows 10,1.6,121400
+Microsoft Laptop 0011,Microsoft,64,1024,AMD Ryzen 7,NVIDIA RTX 4060,15.6,Windows 10,2.8,159300
+Microsoft Laptop 0012,Microsoft,32,256,Intel Core i3,Intel Iris Xe,14.0,Windows 10,2.5,68200
+LG Laptop 0013,LG,4,2048,AMD Ryzen 7,NVIDIA RTX 4070,17.3,macOS,2.8,147700
+HP Laptop 0014,HP,64,1024,AMD Ryzen 5,Intel Iris Xe,15.6,Linux,1.5,105100
+Acer Laptop 0015,Acer,64,512,Intel Core i5,NVIDIA RTX 2050,17.3,Windows 10,1.4,110200
+Microsoft Laptop 0016,Microsoft,64,256,AMD Ryzen 5,NVIDIA RTX 4070,13.3,Windows 11,2.7,156100
+ASUS Laptop 0017,ASUS,4,512,Intel Core i5,Intel Iris Xe,16.0,Windows 11,2.8,54300
+Lenovo Laptop 0018,Lenovo,8,2048,Intel Core i7,NVIDIA RTX 2050,17.3,Linux,2.7,100500
+ASUS Laptop 0019,ASUS,16,2048,AMD Ryzen 5,NVIDIA RTX 4070,17.3,Linux,1.4,135000
+HP Laptop 0020,HP,16,256,Intel Core i9,NVIDIA GTX 1650,13.3,Windows 11,2.3,82800
+ASUS Laptop 0021,ASUS,4,256,AMD Ryzen 5,Intel Iris Xe,17.3,Windows 10,1.6,53000
+ASUS Laptop 0022,ASUS,64,512,AMD Ryzen 9,NVIDIA GTX 1650,16.0,Linux,1.5,136200
+MSI Laptop 0023,MSI,16,2048,AMD Ryzen 7,NVIDIA RTX 4070,13.3,Windows 11,1.3,145900
+HP Laptop 0024,HP,8,512,Intel Core i9,NVIDIA RTX 4070,14.0,Linux,1.5,132800
+ASUS Laptop 0025,ASUS,4,2048,Intel Core i5,Intel UHD,17.3,Windows 11,2.8,68400
+Lenovo Laptop 0026,Lenovo,32,2048,AMD Ryzen 9,NVIDIA GTX 1650,16.0,Windows 11,1.5,124300
+MSI Laptop 0027,MSI,16,2048,AMD Ryzen 3,NVIDIA RTX 4060,17.3,Linux,1.4,111200
+ASUS Laptop 0028,ASUS,4,256,AMD Ryzen 5,Intel UHD,13.3,Linux,2.0,43800
+Lenovo Laptop 0029,Lenovo,4,256,Intel Core i7,Intel Iris Xe,17.3,Windows 11,2.3,57400
+MSI Laptop 0030,MSI,4,512,Intel Core i3,Intel Iris Xe,16.0,macOS,2.7,56900
+Apple Laptop 0031,Apple,8,1024,AMD Ryzen 7,AMD Radeon,15.6,macOS,1.9,104300
+Dell Laptop 0032,Dell,32,256,Intel Core i5,NVIDIA GTX 1650,17.3,macOS,1.4,94000
+HP Laptop 0033,HP,8,1024,AMD Ryzen 3,AMD Radeon,16.0,macOS,2.2,70400
+Dell Laptop 0034,Dell,64,1024,Intel Core i5,AMD Radeon,15.6,Windows 11,2.6,113600
+Lenovo Laptop 0035,Lenovo,16,1024,Intel Core i9,NVIDIA RTX 3050,14.0,macOS,2.0,123000
+Dell Laptop 0036,Dell,4,2048,AMD Ryzen 3,Intel UHD,13.3,macOS,2.4,69800
+Lenovo Laptop 0037,Lenovo,32,2048,Intel Core i3,Intel Iris Xe,13.3,Windows 10,2.1,81300
+LG Laptop 0038,LG,64,512,AMD Ryzen 7,AMD Radeon,13.3,macOS,1.8,123700
+Apple Laptop 0039,Apple,8,512,Intel Core i5,NVIDIA RTX 3050,17.3,macOS,2.6,108800
+LG Laptop 0040,LG,8,512,Intel Core i7,AMD Radeon,16.0,Windows 11,1.5,66100
+MSI Laptop 0041,MSI,8,1024,Intel Core i7,Intel Iris Xe,16.0,Windows 11,2.6,74800
+ASUS Laptop 0042,ASUS,32,1024,AMD Ryzen 3,NVIDIA GTX 1650,14.0,Windows 11,2.3,79300
+Apple Laptop 0043,Apple,16,256,AMD Ryzen 3,NVIDIA RTX 3050,17.3,macOS,1.8,107600
+Apple Laptop 0044,Apple,4,256,AMD Ryzen 3,AMD Radeon,17.3,macOS,2.7,75900
+Dell Laptop 0045,Dell,4,2048,AMD Ryzen 5,NVIDIA RTX 3050,16.0,Windows 11,1.8,92000
+ASUS Laptop 0046,ASUS,16,256,AMD Ryzen 7,Intel UHD,17.3,Windows 10,1.8,65000
+Apple Laptop 0047,Apple,64,1024,Intel Core i5,NVIDIA RTX 2050,17.3,macOS,1.7,160200
+Apple Laptop 0048,Apple,32,1024,Intel Core i7,NVIDIA GTX 1650,16.0,macOS,2.3,136000
+Lenovo Laptop 0049,Lenovo,64,1024,AMD Ryzen 7,Intel UHD,15.6,macOS,1.5,137000
+LG Laptop 0050,LG,16,2048,AMD Ryzen 9,NVIDIA RTX 4070,14.0,Linux,2.5,158200
+HP Laptop 0051,HP,16,1024,Intel Core i5,NVIDIA GTX 1650,15.6,Windows 10,2.5,68200
+Dell Laptop 0052,Dell,4,512,AMD Ryzen 9,Intel Iris Xe,16.0,Linux,2.6,84000
+ASUS Laptop 0053,ASUS,32,2048,AMD Ryzen 7,NVIDIA GTX 1650,14.0,Windows 11,2.6,108500
+MSI Laptop 0054,MSI,8,512,AMD Ryzen 9,Intel UHD,17.3,Windows 10,2.7,82100
+Samsung Laptop 0055,Samsung,8,2048,AMD Ryzen 5,NVIDIA RTX 4070,17.3,Linux,2.5,132100
+Samsung Laptop 0056,Samsung,8,2048,AMD Ryzen 9,NVIDIA RTX 2050,14.0,macOS,2.4,129700
+Samsung Laptop 0057,Samsung,8,1024,AMD Ryzen 9,Intel Iris Xe,15.6,Windows 10,1.6,89800
+Microsoft Laptop 0058,Microsoft,4,512,Intel Core i7,NVIDIA GTX 1650,16.0,Windows 10,2.3,70700
+MSI Laptop 0059,MSI,32,1024,AMD Ryzen 9,NVIDIA RTX 4060,13.3,Windows 10,2.5,144100
+LG Laptop 0060,LG,4,2048,AMD Ryzen 9,Intel UHD,15.6,macOS,2.4,113900
+Microsoft Laptop 0061,Microsoft,64,512,AMD Ryzen 9,NVIDIA GTX 1650,15.6,Linux,2.0,147400
+Apple Laptop 0062,Apple,32,512,AMD Ryzen 9,AMD Radeon,17.3,macOS,2.1,143700
+LG Laptop 0063,LG,64,256,Intel Core i5,NVIDIA RTX 4060,14.0,Linux,1.5,128400
+MSI Laptop 0064,MSI,16,512,AMD Ryzen 9,NVIDIA RTX 3050,15.6,Linux,1.6,111700
+Acer Laptop 0065,Acer,4,2048,Intel Core i3,Intel UHD,15.6,Windows 10,2.2,48700
+Dell Laptop 0066,Dell,8,512,Intel Core i3,AMD Radeon,14.0,Windows 10,2.0,36600
+LG Laptop 0067,LG,8,2048,AMD Ryzen 3,NVIDIA RTX 3050,14.0,Windows 11,2.4,78900
+Acer Laptop 0068,Acer,4,256,AMD Ryzen 3,NVIDIA RTX 4060,16.0,Windows 10,1.3,66100
+HP Laptop 0069,HP,16,256,Intel Core i3,NVIDIA RTX 3050,17.3,Linux,2.3,60000
+Microsoft Laptop 0070,Microsoft,16,256,AMD Ryzen 7,NVIDIA RTX 4070,13.3,Linux,2.7,127400
+Lenovo Laptop 0071,Lenovo,32,512,AMD Ryzen 3,NVIDIA RTX 4070,16.0,Linux,2.5,122000
+Acer Laptop 0072,Acer,16,512,Intel Core i5,NVIDIA RTX 2050,16.0,Windows 10,2.4,71700
+LG Laptop 0073,LG,32,1024,Intel Core i3,NVIDIA RTX 4070,15.6,Windows 10,2.0,124000
+Acer Laptop 0074,Acer,16,1024,AMD Ryzen 3,Intel UHD,17.3,Windows 10,1.3,57000
+Samsung Laptop 0075,Samsung,64,512,AMD Ryzen 9,NVIDIA RTX 4070,16.0,Windows 11,1.3,183200
+MSI Laptop 0076,MSI,8,1024,AMD Ryzen 5,NVIDIA RTX 4070,17.3,macOS,1.9,137200
+Apple Laptop 0077,Apple,16,2048,AMD Ryzen 3,NVIDIA RTX 2050,15.6,macOS,1.6,118000
+Apple Laptop 0078,Apple,4,512,Intel Core i9,NVIDIA GTX 1650,16.0,macOS,1.6,125300
+Microsoft Laptop 0079,Microsoft,64,1024,Intel Core i5,NVIDIA GTX 1650,15.6,Windows 10,1.8,123000
+Dell Laptop 0080,Dell,64,512,AMD Ryzen 3,Intel UHD,13.3,macOS,2.3,100600
+Samsung Laptop 0081,Samsung,4,256,AMD Ryzen 3,NVIDIA RTX 4070,16.0,Linux,1.7,85900
+Acer Laptop 0082,Acer,32,256,Intel Core i5,NVIDIA RTX 4060,16.0,Windows 11,2.1,95200
+Lenovo Laptop 0083,Lenovo,8,1024,Intel Core i5,NVIDIA GTX 1650,13.3,Linux,2.2,58300
+Microsoft Laptop 0084,Microsoft,32,2048,AMD Ryzen 9,NVIDIA RTX 2050,17.3,Linux,1.7,141700
+LG Laptop 0085,LG,4,512,Intel Core i9,NVIDIA RTX 2050,13.3,Windows 10,1.6,90600
+HP Laptop 0086,HP,8,256,AMD Ryzen 7,NVIDIA RTX 4070,17.3,Linux,1.7,113400
+Acer Laptop 0087,Acer,16,2048,Intel Core i5,NVIDIA GTX 1650,15.6,Windows 10,1.9,86700
+ASUS Laptop 0088,ASUS,8,1024,Intel Core i7,Intel Iris Xe,13.3,Windows 10,2.5,73900
+LG Laptop 0089,LG,16,2048,Intel Core i5,NVIDIA RTX 4070,15.6,Linux,2.7,136000
+Microsoft Laptop 0090,Microsoft,32,2048,Intel Core i5,Intel UHD,16.0,macOS,2.2,110200
+HP Laptop 0091,HP,8,256,AMD Ryzen 3,Intel UHD,14.0,Linux,2.0,36900
+Acer Laptop 0092,Acer,8,2048,AMD Ryzen 9,Intel Iris Xe,16.0,macOS,1.9,116500
+HP Laptop 0093,HP,8,1024,AMD Ryzen 7,NVIDIA RTX 4070,15.6,Linux,2.5,126600
+Dell Laptop 0094,Dell,32,256,AMD Ryzen 5,NVIDIA RTX 2050,15.6,Windows 11,2.8,83300
+Microsoft Laptop 0095,Microsoft,4,2048,AMD Ryzen 7,Intel UHD,14.0,macOS,2.2,102800
+Samsung Laptop 0096,Samsung,4,512,AMD Ryzen 3,AMD Radeon,15.6,Linux,2.6,44400
+HP Laptop 0097,HP,4,512,Intel Core i7,NVIDIA RTX 2050,17.3,Windows 11,2.1,69100
+ASUS Laptop 0098,ASUS,4,2048,Intel Core i5,AMD Radeon,16.0,macOS,2.0,85600
+MSI Laptop 0099,MSI,32,2048,Intel Core i9,NVIDIA RTX 4070,17.3,Windows 10,1.8,187600
+Microsoft Laptop 0100,Microsoft,8,256,AMD Ryzen 3,NVIDIA RTX 4060,15.6,macOS,2.5,95700
+Acer Laptop 0101,Acer,64,2048,Intel Core i7,NVIDIA RTX 4070,17.3,Linux,1.8,190600
+Microsoft Laptop 0102,Microsoft,32,2048,AMD Ryzen 5,NVIDIA GTX 1650,14.0,Linux,1.6,108500
+Dell Laptop 0103,Dell,16,2048,AMD Ryzen 7,NVIDIA RTX 4060,14.0,Linux,2.7,119500
+Microsoft Laptop 0104,Microsoft,64,1024,Intel Core i5,NVIDIA RTX 4070,13.3,Linux,1.2,162900
+MSI Laptop 0105,MSI,8,256,AMD Ryzen 9,NVIDIA RTX 2050,15.6,Linux,2.2,93500
+Microsoft Laptop 0106,Microsoft,32,1024,AMD Ryzen 9,Intel UHD,17.3,Windows 11,1.6,117500
+ASUS Laptop 0107,ASUS,4,2048,Intel Core i5,Intel Iris Xe,16.0,Windows 10,2.3,67100
+Dell Laptop 0108,Dell,16,256,AMD Ryzen 3,NVIDIA RTX 3050,15.6,Linux,1.4,69000
+MSI Laptop 0109,MSI,64,512,Intel Core i7,AMD Radeon,13.3,Linux,2.2,114000
+Samsung Laptop 0110,Samsung,64,512,Intel Core i9,NVIDIA RTX 4070,15.6,Linux,1.6,179200
+Samsung Laptop 0111,Samsung,16,512,Intel Core i5,NVIDIA RTX 4070,15.6,macOS,2.2,127800
+Acer Laptop 0112,Acer,32,1024,Intel Core i9,NVIDIA RTX 4060,16.0,Windows 11,1.6,144200
+Apple Laptop 0113,Apple,64,1024,AMD Ryzen 3,Intel UHD,16.0,macOS,1.6,139900
+Dell Laptop 0114,Dell,64,2048,AMD Ryzen 3,NVIDIA GTX 1650,17.3,macOS,1.6,137700
+LG Laptop 0115,LG,16,512,Intel Core i5,Intel UHD,15.6,Linux,1.3,57800
+Lenovo Laptop 0116,Lenovo,4,1024,AMD Ryzen 5,NVIDIA RTX 4060,14.0,Windows 10,1.4,87900
+Apple Laptop 0117,Apple,64,1024,Intel Core i7,NVIDIA RTX 2050,16.0,macOS,2.7,168400
+Apple Laptop 0118,Apple,4,2048,Intel Core i5,AMD Radeon,14.0,macOS,2.6,104600
+Microsoft Laptop 0119,Microsoft,16,256,AMD Ryzen 7,Intel UHD,15.6,Windows 11,1.9,72600
+LG Laptop 0120,LG,32,1024,Intel Core i5,NVIDIA GTX 1650,16.0,Windows 11,2.2,92000
+Apple Laptop 0121,Apple,64,512,Intel Core i5,NVIDIA RTX 4070,15.6,macOS,2.2,186900
+Lenovo Laptop 0122,Lenovo,4,256,AMD Ryzen 3,NVIDIA RTX 4070,13.3,Windows 11,1.6,88400
+Lenovo Laptop 0123,Lenovo,32,2048,AMD Ryzen 5,NVIDIA RTX 4060,17.3,Windows 10,2.6,124900
+Samsung Laptop 0124,Samsung,64,2048,AMD Ryzen 3,Intel UHD,15.6,Windows 10,1.9,111900
+Apple Laptop 0125,Apple,4,1024,AMD Ryzen 5,Intel UHD,16.0,macOS,1.6,86600
+Samsung Laptop 0126,Samsung,4,512,Intel Core i3,Intel UHD,15.6,Windows 10,2.8,39200
+ASUS Laptop 0127,ASUS,4,512,Intel Core i9,NVIDIA GTX 1650,15.6,Windows 10,2.5,89800
+Dell Laptop 0128,Dell,16,512,Intel Core i7,NVIDIA RTX 2050,14.0,Windows 11,2.3,74800
+Lenovo Laptop 0129,Lenovo,4,1024,Intel Core i9,NVIDIA RTX 3050,13.3,Windows 10,1.6,94100
+MSI Laptop 0130,MSI,64,256,Intel Core i5,NVIDIA RTX 4070,16.0,macOS,2.0,166900
+Samsung Laptop 0131,Samsung,64,512,Intel Core i3,NVIDIA RTX 2050,16.0,Windows 11,1.3,106400
+MSI Laptop 0132,MSI,32,256,AMD Ryzen 9,NVIDIA RTX 4070,13.3,Windows 11,1.7,149700
+HP Laptop 0133,HP,8,1024,AMD Ryzen 5,NVIDIA RTX 4060,17.3,macOS,1.9,113100
+MSI Laptop 0134,MSI,4,256,Intel Core i9,NVIDIA RTX 4060,16.0,Windows 10,1.9,113500
+MSI Laptop 0135,MSI,32,256,AMD Ryzen 5,NVIDIA RTX 4060,15.6,macOS,1.8,119200
+Samsung Laptop 0136,Samsung,4,256,Intel Core i5,Intel Iris Xe,16.0,Windows 11,2.4,47200
+Lenovo Laptop 0137,Lenovo,64,256,AMD Ryzen 5,Intel Iris Xe,16.0,macOS,2.6,116500
+Dell Laptop 0138,Dell,16,1024,AMD Ryzen 5,Intel Iris Xe,17.3,Windows 10,1.4,73200
+ASUS Laptop 0139,ASUS,4,1024,AMD Ryzen 5,Intel Iris Xe,15.6,Windows 10,2.5,62200
+LG Laptop 0140,LG,64,256,AMD Ryzen 3,Intel UHD,14.0,macOS,2.3,102200
+Apple Laptop 0141,Apple,16,256,Intel Core i7,AMD Radeon,17.3,macOS,2.3,102500
+Lenovo Laptop 0142,Lenovo,4,256,Intel Core i9,NVIDIA RTX 4060,16.0,Linux,1.7,106700
+Acer Laptop 0143,Acer,16,256,Intel Core i3,AMD Radeon,14.0,Windows 11,2.3,39900
+Samsung Laptop 0144,Samsung,32,2048,AMD Ryzen 9,NVIDIA RTX 4060,15.6,Windows 10,2.4,153100
+Apple Laptop 0145,Apple,32,256,AMD Ryzen 3,NVIDIA RTX 4070,17.3,macOS,2.3,149000
+ASUS Laptop 0146,ASUS,32,256,Intel Core i3,NVIDIA GTX 1650,15.6,Windows 10,2.4,65900
+Acer Laptop 0147,Acer,16,256,Intel Core i3,NVIDIA RTX 4070,16.0,Windows 10,1.4,98600
+ASUS Laptop 0148,ASUS,64,1024,Intel Core i5,NVIDIA RTX 4060,13.3,Linux,1.2,134800
+Apple Laptop 0149,Apple,64,2048,AMD Ryzen 7,NVIDIA RTX 4060,15.6,macOS,1.4,199300
+Apple Laptop 0150,Apple,8,2048,AMD Ryzen 5,Intel Iris Xe,16.0,macOS,2.6,110200
+MSI Laptop 0151,MSI,64,2048,Intel Core i5,NVIDIA RTX 4060,15.6,macOS,1.6,171800
+HP Laptop 0152,HP,64,256,Intel Core i9,NVIDIA RTX 3050,15.6,Windows 10,1.6,141900
+Acer Laptop 0153,Acer,8,512,Intel Core i7,Intel Iris Xe,14.0,Linux,1.9,63400
+LG Laptop 0154,LG,32,1024,AMD Ryzen 5,AMD Radeon,16.0,Windows 11,2.0,83300
+Acer Laptop 0155,Acer,64,256,AMD Ryzen 5,Intel Iris Xe,15.6,Linux,1.9,93400
+Apple Laptop 0156,Apple,16,256,Intel Core i5,NVIDIA RTX 4060,16.0,macOS,2.1,119600
+Samsung Laptop 0157,Samsung,64,512,AMD Ryzen 5,NVIDIA RTX 4070,17.3,Windows 10,2.7,159900
+HP Laptop 0158,HP,16,256,Intel Core i7,Intel UHD,14.0,Linux,2.8,64500
+Microsoft Laptop 0159,Microsoft,64,512,AMD Ryzen 5,NVIDIA RTX 3050,15.6,Linux,1.9,128500
+LG Laptop 0160,LG,4,1024,Intel Core i5,NVIDIA RTX 3050,13.3,Linux,1.7,74400
+Lenovo Laptop 0161,Lenovo,16,256,Intel Core i7,NVIDIA RTX 3050,15.6,Linux,1.4,79200
+Acer Laptop 0162,Acer,64,2048,AMD Ryzen 5,AMD Radeon,17.3,Windows 11,2.2,126000
+Microsoft Laptop 0163,Microsoft,16,256,AMD Ryzen 5,NVIDIA RTX 2050,14.0,Windows 10,1.7,75900
+ASUS Laptop 0164,ASUS,8,512,Intel Core i7,Intel Iris Xe,15.6,Windows 11,2.0,69400
+Microsoft Laptop 0165,Microsoft,4,1024,Intel Core i7,NVIDIA RTX 4060,14.0,Windows 10,1.5,102300
+Samsung Laptop 0166,Samsung,4,2048,AMD Ryzen 5,NVIDIA GTX 1650,16.0,macOS,2.4,94000
+ASUS Laptop 0167,ASUS,64,512,AMD Ryzen 3,NVIDIA RTX 4070,14.0,macOS,2.3,164900
+Samsung Laptop 0168,Samsung,32,1024,AMD Ryzen 7,NVIDIA RTX 4060,14.0,Windows 10,2.5,120100
+Acer Laptop 0169,Acer,4,2048,AMD Ryzen 5,Intel Iris Xe,17.3,Windows 11,1.7,68200
+Acer Laptop 0170,Acer,32,512,AMD Ryzen 7,Intel Iris Xe,14.0,Linux,2.6,77200
+MSI Laptop 0171,MSI,4,2048,AMD Ryzen 5,NVIDIA GTX 1650,16.0,Windows 11,1.8,76100
+Apple Laptop 0172,Apple,4,1024,Intel Core i7,AMD Radeon,13.3,macOS,1.7,102800
+Lenovo Laptop 0173,Lenovo,32,2048,Intel Core i3,Intel Iris Xe,13.3,macOS,1.5,92700
+Microsoft Laptop 0174,Microsoft,64,2048,Intel Core i5,NVIDIA RTX 2050,14.0,macOS,1.4,153500
+MSI Laptop 0175,MSI,64,2048,Intel Core i5,Intel Iris Xe,16.0,Windows 11,2.2,133000
+ASUS Laptop 0176,ASUS,8,1024,AMD Ryzen 7,Intel UHD,17.3,macOS,1.6,89000
+Lenovo Laptop 0177,Lenovo,4,1024,Intel Core i5,Intel UHD,16.0,Linux,1.3,52400
+Apple Laptop 0178,Apple,16,256,AMD Ryzen 5,Intel Iris Xe,15.6,macOS,1.6,90000
+LG Laptop 0179,LG,16,512,Intel Core i3,NVIDIA RTX 3050,17.3,macOS,2.5,82200
+Samsung Laptop 0180,Samsung,32,512,Intel Core i7,Intel Iris Xe,16.0,Windows 11,1.7,82500
+ASUS Laptop 0181,ASUS,4,1024,AMD Ryzen 3,NVIDIA RTX 4060,17.3,Linux,1.6,81700
+Acer Laptop 0182,Acer,16,256,AMD Ryzen 5,NVIDIA RTX 2050,13.3,macOS,1.9,77400
+Samsung Laptop 0183,Samsung,32,1024,Intel Core i7,NVIDIA RTX 4070,16.0,macOS,2.7,163300
+Acer Laptop 0184,Acer,4,2048,Intel Core i5,NVIDIA RTX 4060,17.3,Windows 10,2.1,100800
+HP Laptop 0185,HP,4,1024,AMD Ryzen 3,NVIDIA RTX 2050,16.0,Linux,1.5,60900
+Apple Laptop 0186,Apple,32,256,AMD Ryzen 5,NVIDIA RTX 4060,15.6,macOS,2.2,134600
+HP Laptop 0187,HP,32,1024,Intel Core i7,Intel UHD,14.0,Linux,1.3,81900
+ASUS Laptop 0188,ASUS,16,1024,AMD Ryzen 7,Intel UHD,17.3,Windows 10,2.3,80400
+Apple Laptop 0189,Apple,32,256,Intel Core i7,NVIDIA RTX 3050,16.0,macOS,1.7,134900
+ASUS Laptop 0190,ASUS,4,256,Intel Core i7,NVIDIA RTX 4070,17.3,Linux,2.7,109000
+Acer Laptop 0191,Acer,16,2048,Intel Core i9,NVIDIA RTX 2050,16.0,Windows 10,1.4,114600
+Samsung Laptop 0192,Samsung,8,2048,Intel Core i5,NVIDIA RTX 3050,15.6,Windows 11,2.1,89400
+Acer Laptop 0193,Acer,8,512,AMD Ryzen 5,NVIDIA GTX 1650,13.3,Windows 10,2.5,51000
+Samsung Laptop 0194,Samsung,4,1024,AMD Ryzen 5,NVIDIA RTX 4070,17.3,Windows 10,2.2,107000
+HP Laptop 0195,HP,16,2048,AMD Ryzen 9,NVIDIA RTX 4060,16.0,Windows 11,1.4,141600
+HP Laptop 0196,HP,32,2048,AMD Ryzen 5,AMD Radeon,17.3,Windows 10,2.4,94400
+MSI Laptop 0197,MSI,64,256,Intel Core i5,AMD Radeon,15.6,Windows 10,1.5,101700
+Apple Laptop 0198,Apple,64,1024,Intel Core i5,NVIDIA RTX 2050,14.0,macOS,2.2,157600
+Acer Laptop 0199,Acer,8,1024,Intel Core i5,AMD Radeon,17.3,Windows 10,1.5,63600
+Apple Laptop 0200,Apple,64,256,Intel Core i3,Intel Iris Xe,13.3,macOS,2.7,126500
+Acer Laptop 0201,Acer,8,2048,Intel Core i3,NVIDIA RTX 4070,17.3,macOS,2.2,129100
+Samsung Laptop 0202,Samsung,8,2048,AMD Ryzen 3,NVIDIA RTX 4070,13.3,Windows 11,1.5,116000
+Samsung Laptop 0203,Samsung,32,512,AMD Ryzen 5,AMD Radeon,15.6,macOS,2.4,90400
+MSI Laptop 0204,MSI,8,1024,Intel Core i5,NVIDIA RTX 3050,14.0,Linux,1.4,79600
+ASUS Laptop 0205,ASUS,8,256,Intel Core i3,NVIDIA RTX 2050,16.0,Linux,1.6,48300
+Apple Laptop 0206,Apple,64,1024,Intel Core i9,AMD Radeon,16.0,macOS,2.8,178700
+Samsung Laptop 0207,Samsung,16,2048,Intel Core i3,Intel Iris Xe,16.0,Linux,2.7,69900
+LG Laptop 0208,LG,16,256,Intel Core i3,NVIDIA RTX 2050,16.0,Linux,1.7,53000
+HP Laptop 0209,HP,32,512,AMD Ryzen 3,NVIDIA RTX 3050,16.0,macOS,1.3,93600
+LG Laptop 0210,LG,64,512,AMD Ryzen 5,NVIDIA RTX 2050,13.3,Linux,2.0,115600
+Acer Laptop 0211,Acer,64,256,Intel Core i7,Intel Iris Xe,16.0,macOS,2.5,124700
+Microsoft Laptop 0212,Microsoft,16,512,Intel Core i9,NVIDIA RTX 4060,17.3,Windows 11,1.3,128600
+Apple Laptop 0213,Apple,32,2048,Intel Core i7,AMD Radeon,15.6,macOS,2.7,142900
+Lenovo Laptop 0214,Lenovo,32,1024,AMD Ryzen 5,NVIDIA RTX 4070,17.3,macOS,2.0,144500
+Apple Laptop 0215,Apple,16,256,AMD Ryzen 7,NVIDIA RTX 2050,13.3,macOS,2.2,111200
+LG Laptop 0216,LG,64,512,Intel Core i3,NVIDIA RTX 4070,14.0,Linux,1.4,141600
+Dell Laptop 0217,Dell,64,256,Intel Core i9,Intel UHD,16.0,macOS,1.9,142900
+ASUS Laptop 0218,ASUS,32,2048,Intel Core i3,AMD Radeon,17.3,Windows 10,2.1,91100
+Microsoft Laptop 0219,Microsoft,32,1024,Intel Core i7,NVIDIA RTX 4070,17.3,macOS,2.1,169100
+LG Laptop 0220,LG,32,512,Intel Core i9,NVIDIA RTX 2050,17.3,macOS,1.6,132600
+Acer Laptop 0221,Acer,8,2048,AMD Ryzen 5,NVIDIA RTX 4070,15.6,macOS,1.7,142000
+Microsoft Laptop 0222,Microsoft,32,2048,AMD Ryzen 5,AMD Radeon,15.6,Windows 11,1.7,100000
+Apple Laptop 0223,Apple,32,1024,AMD Ryzen 9,NVIDIA GTX 1650,14.0,macOS,2.5,149200
+Microsoft Laptop 0224,Microsoft,16,512,Intel Core i5,NVIDIA GTX 1650,14.0,Windows 11,2.3,74100
+ASUS Laptop 0225,ASUS,8,256,Intel Core i5,NVIDIA RTX 4060,15.6,Linux,1.4,78400
+Dell Laptop 0226,Dell,64,512,AMD Ryzen 7,NVIDIA RTX 4070,16.0,Windows 10,2.4,167300
+Apple Laptop 0227,Apple,16,256,Intel Core i5,NVIDIA GTX 1650,17.3,macOS,2.4,95500
+Lenovo Laptop 0228,Lenovo,32,512,Intel Core i3,NVIDIA RTX 4060,16.0,Windows 10,2.7,94000
+Dell Laptop 0229,Dell,4,1024,Intel Core i5,NVIDIA RTX 3050,15.6,Linux,2.8,75900
+Microsoft Laptop 0230,Microsoft,32,512,AMD Ryzen 9,NVIDIA RTX 2050,14.0,Windows 11,1.7,122300
+Acer Laptop 0231,Acer,8,256,AMD Ryzen 5,NVIDIA RTX 2050,17.3,Windows 10,1.5,61300
+MSI Laptop 0232,MSI,64,1024,Intel Core i5,NVIDIA RTX 4060,13.3,Windows 10,2.8,144400
+Apple Laptop 0233,Apple,8,256,AMD Ryzen 3,NVIDIA RTX 4060,14.0,macOS,1.9,106100
+Apple Laptop 0234,Apple,16,256,AMD Ryzen 3,NVIDIA RTX 3050,14.0,macOS,1.3,95800
+Samsung Laptop 0235,Samsung,16,512,AMD Ryzen 7,NVIDIA RTX 2050,13.3,macOS,1.8,93000
+ASUS Laptop 0236,ASUS,8,2048,Intel Core i7,NVIDIA RTX 4070,17.3,macOS,1.9,159100
+Samsung Laptop 0237,Samsung,64,512,Intel Core i9,Intel Iris Xe,17.3,Linux,2.0,136500
+HP Laptop 0238,HP,64,256,Intel Core i3,NVIDIA GTX 1650,17.3,Windows 10,1.5,99600
+Samsung Laptop 0239,Samsung,4,512,AMD Ryzen 9,Intel Iris Xe,17.3,Linux,2.5,84000
+Lenovo Laptop 0240,Lenovo,64,2048,AMD Ryzen 9,Intel UHD,17.3,Linux,2.3,151100
+Dell Laptop 0241,Dell,32,1024,Intel Core i3,NVIDIA GTX 1650,17.3,Windows 11,1.3,79400
+HP Laptop 0242,HP,64,256,Intel Core i5,NVIDIA RTX 4070,13.3,macOS,1.9,158300
+MSI Laptop 0243,MSI,16,2048,AMD Ryzen 9,NVIDIA RTX 4060,16.0,Windows 11,2.3,150200
+Lenovo Laptop 0244,Lenovo,16,256,Intel Core i7,NVIDIA RTX 4060,17.3,Windows 10,2.4,99000
+Dell Laptop 0245,Dell,4,1024,AMD Ryzen 9,NVIDIA RTX 4060,17.3,Linux,2.5,118600
+Samsung Laptop 0246,Samsung,16,512,AMD Ryzen 3,NVIDIA GTX 1650,13.3,Windows 11,2.5,56200
+LG Laptop 0247,LG,4,512,Intel Core i9,Intel Iris Xe,13.3,Windows 11,1.9,72300
+ASUS Laptop 0248,ASUS,4,2048,AMD Ryzen 9,NVIDIA GTX 1650,17.3,Windows 10,2.4,104500
+Lenovo Laptop 0249,Lenovo,64,1024,Intel Core i9,NVIDIA RTX 3050,17.3,macOS,1.6,169400
+Microsoft Laptop 0250,Microsoft,8,2048,AMD Ryzen 3,NVIDIA RTX 2050,13.3,Windows 10,2.2,83100
+Microsoft Laptop 0251,Microsoft,32,256,AMD Ryzen 5,NVIDIA RTX 4060,17.3,macOS,2.3,129900
+Lenovo Laptop 0252,Lenovo,16,2048,Intel Core i7,NVIDIA RTX 4070,14.0,Windows 10,1.7,137300
+Samsung Laptop 0253,Samsung,4,2048,AMD Ryzen 7,AMD Radeon,16.0,Windows 10,1.6,83500
+HP Laptop 0254,HP,32,1024,Intel Core i5,NVIDIA GTX 1650,13.3,macOS,1.8,101700
+LG Laptop 0255,LG,4,256,Intel Core i9,NVIDIA GTX 1650,16.0,Windows 10,2.6,82600
+Acer Laptop 0256,Acer,4,512,Intel Core i9,Intel Iris Xe,16.0,Windows 10,2.3,75000
+MSI Laptop 0257,MSI,8,1024,AMD Ryzen 3,NVIDIA RTX 4060,16.0,macOS,1.7,104100
+Microsoft Laptop 0258,Microsoft,32,2048,Intel Core i5,NVIDIA RTX 4070,15.6,Windows 10,1.8,156000
+Dell Laptop 0259,Dell,64,512,Intel Core i7,Intel UHD,15.6,Linux,1.7,109200
+Apple Laptop 0260,Apple,8,2048,Intel Core i9,NVIDIA RTX 4070,17.3,macOS,2.2,193700
+Acer Laptop 0261,Acer,32,2048,AMD Ryzen 9,AMD Radeon,15.6,Windows 10,1.4,125700
+Samsung Laptop 0262,Samsung,8,256,Intel Core i3,Intel Iris Xe,13.3,Windows 11,1.9,34400
+HP Laptop 0263,HP,8,256,Intel Core i9,NVIDIA RTX 4070,15.6,Windows 11,2.2,132000
+Samsung Laptop 0264,Samsung,4,256,AMD Ryzen 7,Intel UHD,13.3,macOS,2.1,65700
+Dell Laptop 0265,Dell,64,2048,Intel Core i7,Intel Iris Xe,13.3,Windows 10,1.6,136200
+Acer Laptop 0266,Acer,16,1024,AMD Ryzen 7,Intel Iris Xe,15.6,Linux,1.9,75800
+ASUS Laptop 0267,ASUS,16,256,Intel Core i3,Intel Iris Xe,16.0,Linux,1.8,50700
+Dell Laptop 0268,Dell,4,512,Intel Core i5,NVIDIA RTX 4070,16.0,macOS,2.1,112200
+Microsoft Laptop 0269,Microsoft,4,512,Intel Core i9,NVIDIA RTX 4070,15.6,Windows 11,2.7,137600
+Microsoft Laptop 0270,Microsoft,64,256,Intel Core i7,NVIDIA RTX 3050,13.3,Windows 10,2.1,133600
+HP Laptop 0271,HP,16,512,Intel Core i9,NVIDIA RTX 4060,17.3,macOS,1.8,134600
+HP Laptop 0272,HP,64,1024,Intel Core i3,Intel Iris Xe,16.0,Windows 10,2.5,100200
+LG Laptop 0273,LG,64,2048,AMD Ryzen 5,Intel UHD,15.6,Linux,2.0,122800
+Microsoft Laptop 0274,Microsoft,32,2048,Intel Core i7,NVIDIA RTX 4060,13.3,macOS,2.5,154000
+HP Laptop 0275,HP,16,512,AMD Ryzen 7,AMD Radeon,16.0,macOS,1.8,83400
+Dell Laptop 0276,Dell,16,2048,AMD Ryzen 5,NVIDIA RTX 2050,13.3,Windows 10,1.3,90400
+Samsung Laptop 0277,Samsung,64,2048,Intel Core i5,Intel UHD,13.3,macOS,2.1,136300
+LG Laptop 0278,LG,16,2048,Intel Core i3,NVIDIA RTX 2050,16.0,Linux,2.4,86600
+ASUS Laptop 0279,ASUS,64,512,AMD Ryzen 7,AMD Radeon,14.0,macOS,1.7,132200
+Lenovo Laptop 0280,Lenovo,4,512,AMD Ryzen 7,NVIDIA RTX 2050,16.0,macOS,2.0,82400
+Apple Laptop 0281,Apple,16,512,AMD Ryzen 9,NVIDIA GTX 1650,16.0,macOS,1.4,131400
+Dell Laptop 0282,Dell,32,1024,AMD Ryzen 7,NVIDIA RTX 3050,16.0,macOS,1.9,130500
+Lenovo Laptop 0283,Lenovo,16,1024,Intel Core i9,NVIDIA RTX 4070,15.6,Windows 10,2.7,146500
+Acer Laptop 0284,Acer,32,512,AMD Ryzen 5,NVIDIA RTX 4060,15.6,Linux,1.8,107400
+ASUS Laptop 0285,ASUS,64,512,Intel Core i3,NVIDIA RTX 4070,14.0,Linux,2.5,138700
+MSI Laptop 0286,MSI,32,512,AMD Ryzen 3,NVIDIA GTX 1650,15.6,Windows 10,2.3,77400
+HP Laptop 0287,HP,32,2048,AMD Ryzen 7,NVIDIA RTX 4060,17.3,Windows 11,2.5,141600
+Microsoft Laptop 0288,Microsoft,64,256,Intel Core i5,NVIDIA GTX 1650,15.6,Windows 10,2.2,108200
+LG Laptop 0289,LG,32,1024,AMD Ryzen 7,Intel Iris Xe,13.3,Windows 11,1.6,95100
+Microsoft Laptop 0290,Microsoft,64,512,AMD Ryzen 9,NVIDIA RTX 3050,16.0,Linux,2.4,162200
+Microsoft Laptop 0291,Microsoft,8,1024,Intel Core i3,NVIDIA RTX 4070,13.3,macOS,1.9,116600
+HP Laptop 0292,HP,8,1024,AMD Ryzen 3,NVIDIA RTX 3050,16.0,Windows 10,2.0,68900
+Samsung Laptop 0293,Samsung,4,2048,AMD Ryzen 9,NVIDIA RTX 3050,13.3,macOS,1.3,124400
+Dell Laptop 0294,Dell,16,256,Intel Core i7,NVIDIA GTX 1650,17.3,Windows 10,2.1,76300
+Microsoft Laptop 0295,Microsoft,32,2048,Intel Core i9,NVIDIA RTX 4060,14.0,Windows 10,2.2,163900
+MSI Laptop 0296,MSI,4,512,AMD Ryzen 9,NVIDIA RTX 4060,16.0,Windows 11,2.3,113000
+Acer Laptop 0297,Acer,4,256,Intel Core i7,NVIDIA RTX 3050,15.6,Windows 10,1.9,69800
+Samsung Laptop 0298,Samsung,64,1024,AMD Ryzen 7,NVIDIA RTX 4060,17.3,Windows 11,1.8,159100
+LG Laptop 0299,LG,8,1024,Intel Core i5,AMD Radeon,15.6,Windows 11,1.6,57000
+Lenovo Laptop 0300,Lenovo,16,512,AMD Ryzen 7,NVIDIA RTX 4060,17.3,Windows 10,2.1,106800
+Lenovo Laptop 0301,Lenovo,32,512,Intel Core i7,NVIDIA RTX 4070,15.6,Windows 10,1.5,138100
+LG Laptop 0302,LG,4,1024,Intel Core i3,NVIDIA RTX 4070,14.0,Windows 10,2.5,99800
+Microsoft Laptop 0303,Microsoft,32,2048,AMD Ryzen 9,NVIDIA RTX 4060,16.0,Linux,1.5,169100
+Dell Laptop 0304,Dell,8,1024,Intel Core i3,NVIDIA RTX 2050,14.0,macOS,1.5,74700
+LG Laptop 0305,LG,32,256,Intel Core i5,NVIDIA RTX 2050,17.3,macOS,2.1,94900
+Samsung Laptop 0306,Samsung,64,512,AMD Ryzen 7,Intel Iris Xe,14.0,macOS,2.6,124100
+Samsung Laptop 0307,Samsung,16,1024,Intel Core i5,NVIDIA RTX 4070,13.3,Windows 10,1.5,119000
+Apple Laptop 0308,Apple,64,2048,Intel Core i7,AMD Radeon,14.0,macOS,2.5,165100
+LG Laptop 0309,LG,16,1024,Intel Core i7,NVIDIA RTX 3050,15.6,macOS,2.1,114200
+HP Laptop 0310,HP,8,2048,Intel Core i3,NVIDIA RTX 2050,14.0,Windows 10,1.6,70500
+ASUS Laptop 0311,ASUS,32,2048,Intel Core i7,NVIDIA RTX 2050,16.0,Linux,1.9,115300
+MSI Laptop 0312,MSI,64,1024,AMD Ryzen 5,NVIDIA RTX 4070,16.0,macOS,2.1,178100
+Samsung Laptop 0313,Samsung,16,256,AMD Ryzen 7,NVIDIA GTX 1650,16.0,Windows 10,2.0,75200
+Acer Laptop 0314,Acer,16,512,AMD Ryzen 9,NVIDIA RTX 3050,13.3,Windows 11,1.4,101900
+Dell Laptop 0315,Dell,4,512,AMD Ryzen 9,NVIDIA RTX 4070,13.3,Linux,1.5,123700
+Acer Laptop 0316,Acer,8,1024,Intel Core i5,NVIDIA RTX 3050,15.6,Windows 11,1.8,70300
+Dell Laptop 0317,Dell,32,1024,Intel Core i9,NVIDIA RTX 4060,13.3,Windows 11,1.2,141600
+HP Laptop 0318,HP,8,512,AMD Ryzen 9,Intel UHD,13.3,macOS,2.5,91100
+Lenovo Laptop 0319,Lenovo,32,256,Intel Core i9,NVIDIA RTX 4060,13.3,Windows 11,1.4,127800
+Acer Laptop 0320,Acer,8,2048,Intel Core i7,AMD Radeon,13.3,Windows 11,2.2,76300
+Samsung Laptop 0321,Samsung,16,512,Intel Core i7,NVIDIA RTX 4060,17.3,Linux,2.6,101800
+HP Laptop 0322,HP,8,256,AMD Ryzen 7,NVIDIA RTX 3050,16.0,macOS,2.5,91800
+Acer Laptop 0323,Acer,4,512,AMD Ryzen 3,Intel UHD,15.6,Windows 10,2.0,38300
+ASUS Laptop 0324,ASUS,32,1024,Intel Core i3,NVIDIA GTX 1650,16.0,Linux,1.4,81000
+LG Laptop 0325,LG,4,256,AMD Ryzen 5,NVIDIA RTX 3050,14.0,Linux,2.6,65400
+MSI Laptop 0326,MSI,16,512,AMD Ryzen 9,Intel Iris Xe,13.3,Windows 11,1.2,88900
+Dell Laptop 0327,Dell,4,2048,AMD Ryzen 3,NVIDIA RTX 4060,16.0,Linux,1.3,98400
+Microsoft Laptop 0328,Microsoft,64,512,AMD Ryzen 3,Intel Iris Xe,15.6,Windows 11,2.0,102300
+Lenovo Laptop 0329,Lenovo,64,1024,AMD Ryzen 7,Intel Iris Xe,15.6,Linux,2.4,120400
+Dell Laptop 0330,Dell,8,256,AMD Ryzen 7,Intel Iris Xe,16.0,Windows 11,1.7,60600
+HP Laptop 0331,HP,4,512,Intel Core i3,AMD Radeon,16.0,macOS,2.0,52300
+Lenovo Laptop 0332,Lenovo,16,512,AMD Ryzen 3,Intel Iris Xe,13.3,macOS,2.5,62300
+Microsoft Laptop 0333,Microsoft,4,1024,Intel Core i5,NVIDIA RTX 4070,16.0,macOS,1.3,134900
+Lenovo Laptop 0334,Lenovo,16,512,AMD Ryzen 3,Intel Iris Xe,17.3,Windows 11,1.6,57200
+Dell Laptop 0335,Dell,4,256,Intel Core i9,Intel UHD,16.0,macOS,1.8,84600
+Lenovo Laptop 0336,Lenovo,4,2048,Intel Core i9,NVIDIA RTX 3050,14.0,Linux,2.7,112300
+Acer Laptop 0337,Acer,4,1024,Intel Core i5,Intel UHD,14.0,Windows 10,2.5,42400
+MSI Laptop 0338,MSI,4,2048,AMD Ryzen 3,NVIDIA RTX 2050,15.6,Windows 11,2.1,72100
+Apple Laptop 0339,Apple,8,1024,AMD Ryzen 3,NVIDIA GTX 1650,16.0,macOS,1.8,97300
+ASUS Laptop 0340,ASUS,64,512,Intel Core i7,Intel UHD,16.0,Windows 11,1.6,113300
+Dell Laptop 0341,Dell,16,256,AMD Ryzen 7,NVIDIA RTX 2050,13.3,Windows 10,2.0,74800
+MSI Laptop 0342,MSI,32,256,Intel Core i7,NVIDIA RTX 2050,13.3,Windows 11,2.7,96800
+MSI Laptop 0343,MSI,16,2048,Intel Core i5,Intel Iris Xe,17.3,Windows 10,2.2,88800
+HP Laptop 0344,HP,64,256,AMD Ryzen 7,AMD Radeon,14.0,macOS,1.6,123800
+MSI Laptop 0345,MSI,16,1024,AMD Ryzen 9,NVIDIA RTX 2050,14.0,Windows 11,2.7,105600
+LG Laptop 0346,LG,4,512,Intel Core i5,AMD Radeon,16.0,Linux,1.7,47100
+Microsoft Laptop 0347,Microsoft,16,512,AMD Ryzen 9,NVIDIA RTX 2050,16.0,macOS,2.6,119900
+Lenovo Laptop 0348,Lenovo,16,256,Intel Core i9,NVIDIA RTX 3050,14.0,Windows 11,2.3,99200
+MSI Laptop 0349,MSI,64,256,AMD Ryzen 3,NVIDIA RTX 2050,14.0,Windows 11,2.7,106500
+Microsoft Laptop 0350,Microsoft,64,512,Intel Core i5,NVIDIA RTX 4070,13.3,Windows 10,1.4,154600
+ASUS Laptop 0351,ASUS,8,512,AMD Ryzen 7,NVIDIA RTX 3050,13.3,macOS,2.7,90400
+Dell Laptop 0352,Dell,4,512,AMD Ryzen 9,AMD Radeon,13.3,macOS,1.4,92600
+Dell Laptop 0353,Dell,8,2048,AMD Ryzen 7,NVIDIA RTX 4070,13.3,Linux,2.3,132000
+Apple Laptop 0354,Apple,8,512,AMD Ryzen 3,NVIDIA RTX 2050,16.0,macOS,2.6,87800
+LG Laptop 0355,LG,64,512,AMD Ryzen 3,NVIDIA RTX 4070,16.0,Linux,1.3,148200
+MSI Laptop 0356,MSI,8,2048,Intel Core i9,NVIDIA GTX 1650,17.3,Windows 11,2.8,116000
+Samsung Laptop 0357,Samsung,64,2048,AMD Ryzen 5,NVIDIA RTX 3050,16.0,macOS,1.5,156800
+LG Laptop 0358,LG,8,256,AMD Ryzen 3,Intel UHD,16.0,macOS,2.4,53500
+Lenovo Laptop 0359,Lenovo,4,512,Intel Core i9,NVIDIA RTX 2050,17.3,Windows 11,2.4,88600
+LG Laptop 0360,LG,32,1024,Intel Core i7,AMD Radeon,14.0,macOS,2.5,107200
+LG Laptop 0361,LG,4,1024,Intel Core i7,NVIDIA GTX 1650,16.0,macOS,1.5,85200
+HP Laptop 0362,HP,4,512,Intel Core i9,Intel UHD,17.3,Linux,1.2,74800
+Lenovo Laptop 0363,Lenovo,16,512,AMD Ryzen 5,Intel UHD,13.3,Windows 10,2.1,49200
+HP Laptop 0364,HP,64,1024,Intel Core i5,NVIDIA RTX 3050,16.0,Windows 11,1.7,125900
+Lenovo Laptop 0365,Lenovo,8,2048,AMD Ryzen 9,NVIDIA RTX 3050,14.0,macOS,1.6,135300
+Lenovo Laptop 0366,Lenovo,32,1024,AMD Ryzen 3,AMD Radeon,14.0,Windows 11,2.7,74200
+MSI Laptop 0367,MSI,64,256,Intel Core i7,NVIDIA RTX 3050,17.3,Windows 10,2.2,130800
+Samsung Laptop 0368,Samsung,8,1024,Intel Core i5,NVIDIA GTX 1650,15.6,macOS,1.5,76100
+Apple Laptop 0369,Apple,32,256,AMD Ryzen 3,NVIDIA GTX 1650,14.0,macOS,2.3,103000
+Acer Laptop 0370,Acer,4,256,Intel Core i3,NVIDIA RTX 4060,16.0,Linux,2.8,65900
+Samsung Laptop 0371,Samsung,32,1024,AMD Ryzen 7,Intel Iris Xe,16.0,Windows 10,1.5,91000
+Dell Laptop 0372,Dell,16,256,AMD Ryzen 5,NVIDIA RTX 2050,13.3,Windows 11,1.7,65000
+Lenovo Laptop 0373,Lenovo,4,256,AMD Ryzen 5,NVIDIA RTX 4070,13.3,Linux,2.7,90300
+LG Laptop 0374,LG,32,512,Intel Core i3,Intel Iris Xe,15.6,Windows 10,2.8,66900
+Microsoft Laptop 0375,Microsoft,64,1024,AMD Ryzen 3,NVIDIA RTX 2050,14.0,Windows 11,1.3,123000
+Microsoft Laptop 0376,Microsoft,32,512,Intel Core i3,NVIDIA RTX 3050,13.3,Linux,1.3,89600
+Samsung Laptop 0377,Samsung,8,256,Intel Core i3,NVIDIA GTX 1650,14.0,macOS,2.8,59500
+HP Laptop 0378,HP,16,2048,AMD Ryzen 9,NVIDIA RTX 4070,15.6,Windows 11,2.2,162100
+Lenovo Laptop 0379,Lenovo,16,2048,AMD Ryzen 5,AMD Radeon,16.0,Windows 11,1.6,83000
+Acer Laptop 0380,Acer,8,1024,Intel Core i3,AMD Radeon,13.3,Windows 11,2.3,46500
+MSI Laptop 0381,MSI,64,512,Intel Core i3,NVIDIA RTX 4060,17.3,Linux,2.7,133300
+LG Laptop 0382,LG,8,2048,AMD Ryzen 3,Intel Iris Xe,16.0,Windows 11,2.0,71700
+LG Laptop 0383,LG,64,512,Intel Core i5,NVIDIA RTX 4070,14.0,Windows 10,2.8,150800
+Lenovo Laptop 0384,Lenovo,4,2048,Intel Core i5,NVIDIA RTX 4060,14.0,Windows 10,2.5,96300
+Apple Laptop 0385,Apple,4,256,AMD Ryzen 7,NVIDIA RTX 4060,17.3,macOS,1.7,127600
+Microsoft Laptop 0386,Microsoft,32,256,AMD Ryzen 7,Intel Iris Xe,16.0,Windows 10,1.4,96900
+LG Laptop 0387,LG,4,256,Intel Core i5,NVIDIA RTX 2050,17.3,macOS,2.6,73400
+MSI Laptop 0388,MSI,32,2048,Intel Core i3,AMD Radeon,15.6,Linux,1.4,93700
+MSI Laptop 0389,MSI,4,2048,AMD Ryzen 5,NVIDIA GTX 1650,13.3,Linux,2.7,77700
+Dell Laptop 0390,Dell,16,1024,AMD Ryzen 3,NVIDIA RTX 2050,16.0,Windows 11,2.8,69100
+Lenovo Laptop 0391,Lenovo,16,2048,AMD Ryzen 5,NVIDIA RTX 2050,16.0,Windows 11,1.5,89400
+MSI Laptop 0392,MSI,32,1024,Intel Core i3,AMD Radeon,13.3,macOS,2.3,87900
+Lenovo Laptop 0393,Lenovo,64,256,Intel Core i7,NVIDIA GTX 1650,14.0,Windows 11,1.6,115100
+Dell Laptop 0394,Dell,16,512,AMD Ryzen 3,NVIDIA RTX 3050,16.0,Linux,2.2,66400
+Dell Laptop 0395,Dell,8,1024,AMD Ryzen 9,NVIDIA RTX 4070,14.0,Linux,2.1,138900
+Apple Laptop 0396,Apple,8,1024,Intel Core i5,NVIDIA RTX 2050,13.3,macOS,1.8,99800
+LG Laptop 0397,LG,8,512,Intel Core i9,NVIDIA GTX 1650,15.6,Linux,2.0,83700
+Samsung Laptop 0398,Samsung,8,512,Intel Core i3,NVIDIA GTX 1650,15.6,macOS,2.3,62100
+MSI Laptop 0399,MSI,32,1024,AMD Ryzen 9,NVIDIA RTX 2050,14.0,Linux,1.7,126300
+LG Laptop 0400,LG,32,256,Intel Core i3,NVIDIA RTX 3050,17.3,macOS,1.7,92000
+Samsung Laptop 0401,Samsung,4,1024,AMD Ryzen 3,NVIDIA RTX 3050,15.6,macOS,2.2,79900
+ASUS Laptop 0402,ASUS,8,512,Intel Core i3,NVIDIA RTX 4060,15.6,Windows 10,2.4,77700
+Acer Laptop 0403,Acer,16,2048,AMD Ryzen 7,NVIDIA RTX 4060,13.3,Windows 10,1.7,117000
+Microsoft Laptop 0404,Microsoft,32,1024,AMD Ryzen 3,AMD Radeon,17.3,Windows 10,1.7,87000
+Lenovo Laptop 0405,Lenovo,16,512,AMD Ryzen 5,Intel Iris Xe,14.0,macOS,1.6,71900
+MSI Laptop 0406,MSI,16,1024,AMD Ryzen 3,NVIDIA RTX 2050,16.0,Windows 11,2.0,79000
+LG Laptop 0407,LG,64,256,AMD Ryzen 9,NVIDIA GTX 1650,17.3,Windows 11,2.6,139300
+Microsoft Laptop 0408,Microsoft,16,2048,Intel Core i3,AMD Radeon,14.0,Windows 10,1.7,80200
+Samsung Laptop 0409,Samsung,8,1024,Intel Core i7,Intel Iris Xe,16.0,macOS,2.2,85100
+Apple Laptop 0410,Apple,4,256,AMD Ryzen 9,NVIDIA RTX 2050,14.0,macOS,2.4,116900
+LG Laptop 0411,LG,8,2048,Intel Core i5,AMD Radeon,17.3,Linux,2.2,78300
+MSI Laptop 0412,MSI,32,2048,Intel Core i3,Intel UHD,17.3,Windows 10,2.4,83000
+Apple Laptop 0413,Apple,64,512,Intel Core i3,Intel UHD,14.0,macOS,1.6,123200
+Acer Laptop 0414,Acer,8,256,AMD Ryzen 7,NVIDIA RTX 2050,14.0,Windows 11,2.5,66600
+Acer Laptop 0415,Acer,32,1024,AMD Ryzen 7,AMD Radeon,15.6,Linux,1.8,88800
+Lenovo Laptop 0416,Lenovo,32,256,Intel Core i9,NVIDIA GTX 1650,14.0,Windows 10,2.4,106500
+Microsoft Laptop 0417,Microsoft,8,256,AMD Ryzen 5,Intel UHD,16.0,macOS,2.4,65500
+LG Laptop 0418,LG,4,256,Intel Core i3,Intel UHD,13.3,Linux,1.9,26100
+Microsoft Laptop 0419,Microsoft,16,2048,Intel Core i7,NVIDIA GTX 1650,13.3,macOS,1.9,114000
+Microsoft Laptop 0420,Microsoft,16,512,AMD Ryzen 7,Intel Iris Xe,17.3,Windows 11,1.7,80100
+Samsung Laptop 0421,Samsung,8,512,AMD Ryzen 3,NVIDIA GTX 1650,15.6,Linux,1.7,46200
+Microsoft Laptop 0422,Microsoft,32,512,AMD Ryzen 9,NVIDIA RTX 3050,14.0,Windows 11,1.2,122300
+HP Laptop 0423,HP,64,2048,Intel Core i7,Intel Iris Xe,17.3,Windows 11,2.4,134200
+Acer Laptop 0424,Acer,8,2048,AMD Ryzen 3,NVIDIA RTX 2050,16.0,Windows 11,1.4,72100
+Dell Laptop 0425,Dell,16,1024,AMD Ryzen 5,NVIDIA RTX 4060,13.3,Windows 11,2.6,91100
+Dell Laptop 0426,Dell,8,512,AMD Ryzen 5,NVIDIA RTX 3050,16.0,macOS,2.6,81700
+Apple Laptop 0427,Apple,16,512,Intel Core i5,NVIDIA RTX 4060,16.0,macOS,2.7,126900
+MSI Laptop 0428,MSI,32,2048,Intel Core i7,Intel Iris Xe,14.0,Windows 11,2.8,106400
+HP Laptop 0429,HP,32,2048,AMD Ryzen 9,AMD Radeon,17.3,Linux,2.4,121700
+Lenovo Laptop 0430,Lenovo,32,2048,Intel Core i5,NVIDIA RTX 4060,16.0,Windows 11,1.3,125400
+Dell Laptop 0431,Dell,64,512,AMD Ryzen 5,Intel Iris Xe,16.0,Windows 10,2.0,105900
+Lenovo Laptop 0432,Lenovo,64,256,Intel Core i3,AMD Radeon,17.3,Linux,2.6,87800
+HP Laptop 0433,HP,32,1024,Intel Core i9,NVIDIA RTX 3050,15.6,Windows 11,2.0,130200
+MSI Laptop 0434,MSI,32,512,Intel Core i5,NVIDIA RTX 4070,16.0,Linux,1.3,133000
+Samsung Laptop 0435,Samsung,16,256,AMD Ryzen 9,Intel UHD,13.3,Linux,1.9,83000
+Microsoft Laptop 0436,Microsoft,4,256,AMD Ryzen 3,NVIDIA GTX 1650,16.0,macOS,1.8,63000
+ASUS Laptop 0437,ASUS,32,1024,AMD Ryzen 9,NVIDIA RTX 3050,16.0,Windows 11,1.4,127400
+Dell Laptop 0438,Dell,16,1024,AMD Ryzen 3,NVIDIA RTX 3050,13.3,Windows 11,2.6,75400
+Lenovo Laptop 0439,Lenovo,32,256,AMD Ryzen 3,NVIDIA GTX 1650,14.0,Windows 11,2.7,66200
+ASUS Laptop 0440,ASUS,32,512,AMD Ryzen 5,Intel Iris Xe,16.0,Windows 11,2.7,81400
+HP Laptop 0441,HP,32,2048,Intel Core i7,NVIDIA RTX 4070,13.3,Windows 11,2.1,155800
+LG Laptop 0442,LG,32,512,Intel Core i7,AMD Radeon,13.3,Linux,2.3,88200
+Apple Laptop 0443,Apple,64,2048,AMD Ryzen 7,NVIDIA GTX 1650,15.6,macOS,1.8,178600
+Acer Laptop 0444,Acer,32,512,Intel Core i7,NVIDIA RTX 4060,17.3,macOS,2.5,135700
+Apple Laptop 0445,Apple,64,512,Intel Core i9,NVIDIA GTX 1650,17.3,macOS,2.3,177200
+Lenovo Laptop 0446,Lenovo,8,1024,Intel Core i5,NVIDIA RTX 3050,17.3,Linux,2.1,78500
+Microsoft Laptop 0447,Microsoft,16,2048,Intel Core i3,Intel Iris Xe,13.3,Linux,1.4,71300
+ASUS Laptop 0448,ASUS,16,512,AMD Ryzen 3,NVIDIA RTX 2050,14.0,Windows 11,2.3,61200
+ASUS Laptop 0449,ASUS,64,256,AMD Ryzen 5,NVIDIA RTX 4070,13.3,Windows 10,2.4,153200
+MSI Laptop 0450,MSI,8,1024,Intel Core i3,NVIDIA RTX 4060,16.0,Linux,2.7,85300
+Microsoft Laptop 0451,Microsoft,4,256,AMD Ryzen 3,NVIDIA GTX 1650,17.3,Linux,2.5,55100
+LG Laptop 0452,LG,64,512,Intel Core i9,NVIDIA RTX 2050,16.0,Windows 10,2.8,140800
+Lenovo Laptop 0453,Lenovo,8,256,AMD Ryzen 7,Intel UHD,16.0,macOS,2.1,69300
+Lenovo Laptop 0454,Lenovo,64,1024,Intel Core i3,NVIDIA RTX 3050,16.0,Windows 10,1.3,115400
+LG Laptop 0455,LG,4,1024,AMD Ryzen 9,NVIDIA RTX 3050,13.3,macOS,2.0,112600
+Microsoft Laptop 0456,Microsoft,4,512,AMD Ryzen 7,NVIDIA RTX 4060,13.3,macOS,1.6,111000
+Apple Laptop 0457,Apple,16,1024,AMD Ryzen 3,NVIDIA GTX 1650,17.3,macOS,2.0,107500
+Dell Laptop 0458,Dell,4,1024,AMD Ryzen 9,NVIDIA GTX 1650,17.3,Windows 10,2.7,93800
+MSI Laptop 0459,MSI,4,2048,AMD Ryzen 3,NVIDIA RTX 2050,13.3,macOS,2.0,91900
+Samsung Laptop 0460,Samsung,32,256,AMD Ryzen 3,NVIDIA GTX 1650,15.6,Windows 11,2.7,66400
+Microsoft Laptop 0461,Microsoft,64,256,Intel Core i5,NVIDIA GTX 1650,14.0,Linux,2.5,108500
+Microsoft Laptop 0462,Microsoft,32,256,Intel Core i7,Intel UHD,16.0,macOS,1.3,98500
+Dell Laptop 0463,Dell,8,1024,Intel Core i5,NVIDIA GTX 1650,15.6,Linux,1.8,66200
+MSI Laptop 0464,MSI,16,256,AMD Ryzen 7,Intel Iris Xe,17.3,Windows 11,2.2,71900
+LG Laptop 0465,LG,4,256,AMD Ryzen 5,Intel Iris Xe,15.6,macOS,2.2,62100
+Samsung Laptop 0466,Samsung,32,2048,Intel Core i3,NVIDIA RTX 4070,14.0,Windows 10,1.4,135200
+Microsoft Laptop 0467,Microsoft,16,512,AMD Ryzen 3,NVIDIA RTX 3050,13.3,Windows 10,1.4,68400
+LG Laptop 0468,LG,64,2048,Intel Core i5,NVIDIA RTX 2050,14.0,macOS,1.5,151000
+Lenovo Laptop 0469,Lenovo,8,512,Intel Core i9,NVIDIA RTX 2050,14.0,Windows 11,1.5,93000
+Dell Laptop 0470,Dell,64,2048,Intel Core i5,NVIDIA RTX 2050,13.3,macOS,1.4,150100
+Samsung Laptop 0471,Samsung,16,1024,Intel Core i7,NVIDIA GTX 1650,13.3,macOS,2.2,93500
+Apple Laptop 0472,Apple,32,2048,AMD Ryzen 5,NVIDIA RTX 2050,17.3,macOS,1.4,149000
+Apple Laptop 0473,Apple,16,2048,Intel Core i7,Intel UHD,15.6,macOS,1.6,123400
+MSI Laptop 0474,MSI,16,1024,Intel Core i7,NVIDIA RTX 3050,16.0,Linux,1.9,99400
+Samsung Laptop 0475,Samsung,64,256,Intel Core i7,Intel Iris Xe,15.6,Windows 10,2.6,109700
+Acer Laptop 0476,Acer,4,256,Intel Core i3,Intel UHD,17.3,Linux,2.4,29500
+Dell Laptop 0477,Dell,64,1024,AMD Ryzen 9,AMD Radeon,15.6,Linux,1.6,144200
+Acer Laptop 0478,Acer,8,2048,Intel Core i5,NVIDIA RTX 4060,15.6,Windows 11,2.3,99300
+Microsoft Laptop 0479,Microsoft,8,2048,Intel Core i7,AMD Radeon,17.3,Windows 10,2.4,98600
+Apple Laptop 0480,Apple,4,512,AMD Ryzen 9,NVIDIA GTX 1650,13.3,macOS,1.6,115400
+Dell Laptop 0481,Dell,8,1024,AMD Ryzen 7,NVIDIA RTX 4070,16.0,Windows 11,1.3,124500
+HP Laptop 0482,HP,64,1024,AMD Ryzen 3,AMD Radeon,16.0,Linux,1.8,98400
+Microsoft Laptop 0483,Microsoft,16,2048,Intel Core i9,NVIDIA RTX 4060,15.6,macOS,2.0,167700
+LG Laptop 0484,LG,4,512,AMD Ryzen 9,AMD Radeon,14.0,Windows 11,2.0,76700
+ASUS Laptop 0485,ASUS,8,512,Intel Core i7,NVIDIA RTX 3050,17.3,Windows 11,2.3,85900
+Apple Laptop 0486,Apple,4,2048,AMD Ryzen 9,NVIDIA RTX 4070,14.0,macOS,2.1,186300
+Dell Laptop 0487,Dell,8,256,Intel Core i7,AMD Radeon,14.0,Windows 11,2.6,55600
+Dell Laptop 0488,Dell,8,1024,Intel Core i7,NVIDIA RTX 4060,17.3,Windows 11,2.6,104800
+HP Laptop 0489,HP,8,2048,AMD Ryzen 9,NVIDIA RTX 4070,14.0,Windows 10,2.5,156000
+Lenovo Laptop 0490,Lenovo,64,512,AMD Ryzen 3,AMD Radeon,15.6,Linux,2.2,90100
+ASUS Laptop 0491,ASUS,32,2048,Intel Core i7,Intel Iris Xe,13.3,Windows 10,2.0,108000
+MSI Laptop 0492,MSI,8,256,Intel Core i7,NVIDIA RTX 4070,17.3,Windows 11,2.6,122400
+Microsoft Laptop 0493,Microsoft,4,256,AMD Ryzen 9,AMD Radeon,17.3,Windows 11,2.6,87600
+Microsoft Laptop 0494,Microsoft,32,1024,Intel Core i3,NVIDIA RTX 4060,14.0,Linux,2.5,109000
+Apple Laptop 0495,Apple,64,256,AMD Ryzen 7,AMD Radeon,15.6,macOS,2.0,146800
+HP Laptop 0496,HP,16,2048,AMD Ryzen 3,NVIDIA GTX 1650,13.3,Windows 11,2.1,71300
+Microsoft Laptop 0497,Microsoft,4,2048,Intel Core i9,NVIDIA RTX 3050,16.0,macOS,1.4,141600
+LG Laptop 0498,LG,16,1024,AMD Ryzen 7,NVIDIA RTX 3050,17.3,macOS,2.8,115900
+ASUS Laptop 0499,ASUS,32,2048,Intel Core i7,NVIDIA RTX 3050,17.3,Linux,1.6,126800
+LG Laptop 0500,LG,16,2048,Intel Core i7,Intel Iris Xe,14.0,Linux,2.5,89000
+HP Laptop 0501,HP,8,2048,AMD Ryzen 5,Intel UHD,14.0,Linux,2.7,62300
+HP Laptop 0502,HP,8,2048,AMD Ryzen 7,Intel Iris Xe,13.3,macOS,1.6,93500
+LG Laptop 0503,LG,4,2048,AMD Ryzen 7,NVIDIA RTX 2050,17.3,Windows 11,2.7,94400
+Samsung Laptop 0504,Samsung,32,256,Intel Core i9,NVIDIA RTX 2050,14.0,Windows 11,2.5,111700
+Microsoft Laptop 0505,Microsoft,8,512,Intel Core i3,NVIDIA RTX 3050,14.0,Windows 11,2.8,60600
+Acer Laptop 0506,Acer,32,1024,AMD Ryzen 7,NVIDIA RTX 4060,17.3,Windows 10,2.0,120900
+HP Laptop 0507,HP,64,1024,AMD Ryzen 5,NVIDIA RTX 3050,15.6,Windows 10,2.2,124200
+Samsung Laptop 0508,Samsung,32,256,AMD Ryzen 3,AMD Radeon,16.0,Windows 11,2.1,67000
+Acer Laptop 0509,Acer,16,256,AMD Ryzen 3,NVIDIA RTX 2050,16.0,Linux,2.1,55900
+Apple Laptop 0510,Apple,32,2048,Intel Core i3,NVIDIA RTX 4070,13.3,macOS,1.6,170000
+ASUS Laptop 0511,ASUS,8,1024,AMD Ryzen 7,NVIDIA RTX 3050,17.3,Windows 11,2.3,91500
+ASUS Laptop 0512,ASUS,16,256,AMD Ryzen 7,NVIDIA RTX 3050,13.3,Windows 10,2.0,83600
+ASUS Laptop 0513,ASUS,64,1024,Intel Core i7,NVIDIA GTX 1650,16.0,Windows 10,1.6,127600
+Acer Laptop 0514,Acer,8,512,Intel Core i9,NVIDIA GTX 1650,17.3,macOS,1.4,98900
+HP Laptop 0515,HP,4,2048,Intel Core i3,Intel UHD,16.0,macOS,2.2,73700
+LG Laptop 0516,LG,16,2048,Intel Core i7,NVIDIA RTX 2050,16.0,Windows 10,2.4,101500
+Dell Laptop 0517,Dell,64,2048,AMD Ryzen 9,Intel UHD,17.3,macOS,1.8,165400
+Samsung Laptop 0518,Samsung,4,2048,AMD Ryzen 5,Intel UHD,13.3,Windows 10,1.8,60200
+Apple Laptop 0519,Apple,16,1024,Intel Core i7,NVIDIA RTX 2050,14.0,macOS,1.6,123000
+Apple Laptop 0520,Apple,8,2048,AMD Ryzen 7,NVIDIA GTX 1650,16.0,macOS,2.3,129300
+Apple Laptop 0521,Apple,32,1024,AMD Ryzen 9,AMD Radeon,17.3,macOS,1.4,153700
+ASUS Laptop 0522,ASUS,4,1024,Intel Core i9,NVIDIA RTX 4060,16.0,Windows 10,1.4,116000
+Samsung Laptop 0523,Samsung,4,512,AMD Ryzen 7,NVIDIA RTX 4070,14.0,macOS,2.5,125500
+Acer Laptop 0524,Acer,64,256,AMD Ryzen 7,Intel Iris Xe,14.0,Windows 11,1.5,106300
+Samsung Laptop 0525,Samsung,4,2048,AMD Ryzen 5,NVIDIA RTX 2050,15.6,macOS,2.1,95200
+Apple Laptop 0526,Apple,4,2048,Intel Core i5,NVIDIA RTX 3050,17.3,macOS,1.5,129000
+Microsoft Laptop 0527,Microsoft,8,1024,AMD Ryzen 5,NVIDIA RTX 3050,17.3,Linux,2.4,89500
+HP Laptop 0528,HP,32,1024,AMD Ryzen 9,AMD Radeon,14.0,macOS,1.9,126700
+MSI Laptop 0529,MSI,4,256,Intel Core i7,NVIDIA RTX 3050,14.0,macOS,1.7,89900
+Acer Laptop 0530,Acer,64,2048,AMD Ryzen 3,NVIDIA RTX 4070,15.6,Linux,1.9,163000
+Dell Laptop 0531,Dell,8,512,AMD Ryzen 3,Intel Iris Xe,14.0,Windows 10,1.8,39800
+HP Laptop 0532,HP,32,256,Intel Core i3,NVIDIA RTX 4060,17.3,Windows 11,1.4,90800
+HP Laptop 0533,HP,32,1024,Intel Core i9,NVIDIA GTX 1650,15.6,Linux,2.2,112400
+Microsoft Laptop 0534,Microsoft,8,256,Intel Core i3,NVIDIA RTX 3050,15.6,Linux,1.9,67000
+Acer Laptop 0535,Acer,64,2048,Intel Core i7,AMD Radeon,17.3,Linux,2.2,139300
+MSI Laptop 0536,MSI,64,1024,AMD Ryzen 5,NVIDIA RTX 4070,17.3,Windows 10,2.5,170800
+Acer Laptop 0537,Acer,16,2048,AMD Ryzen 3,AMD Radeon,15.6,Windows 11,1.2,67500
+Apple Laptop 0538,Apple,16,2048,Intel Core i3,NVIDIA RTX 4070,16.0,macOS,1.7,160500
+Acer Laptop 0539,Acer,64,512,Intel Core i3,NVIDIA RTX 3050,14.0,Linux,2.6,105800
+MSI Laptop 0540,MSI,8,512,AMD Ryzen 7,NVIDIA RTX 4060,14.0,macOS,1.3,112100
+Microsoft Laptop 0541,Microsoft,64,1024,AMD Ryzen 3,NVIDIA RTX 2050,16.0,Windows 10,2.6,119600
+Lenovo Laptop 0542,Lenovo,16,256,AMD Ryzen 9,NVIDIA RTX 4070,15.6,Linux,1.5,131100
+Lenovo Laptop 0543,Lenovo,4,256,Intel Core i7,Intel Iris Xe,15.6,macOS,1.4,73200
+Dell Laptop 0544,Dell,8,256,Intel Core i7,Intel UHD,16.0,Windows 10,1.7,57800
+Samsung Laptop 0545,Samsung,16,2048,Intel Core i3,NVIDIA RTX 3050,13.3,Windows 10,1.3,84800
+HP Laptop 0546,HP,64,2048,Intel Core i7,NVIDIA GTX 1650,15.6,Linux,2.5,137000
+ASUS Laptop 0547,ASUS,32,2048,Intel Core i9,Intel UHD,14.0,Linux,2.4,116300
+Microsoft Laptop 0548,Microsoft,8,2048,AMD Ryzen 7,NVIDIA RTX 2050,15.6,Windows 10,2.2,100300
+Microsoft Laptop 0549,Microsoft,64,256,AMD Ryzen 3,NVIDIA RTX 4070,15.6,Windows 10,1.8,147400
+ASUS Laptop 0550,ASUS,4,512,AMD Ryzen 7,NVIDIA RTX 3050,13.3,Windows 10,2.5,80100
+HP Laptop 0551,HP,32,512,Intel Core i3,Intel UHD,17.3,Linux,2.3,59300
+Apple Laptop 0552,Apple,4,512,Intel Core i7,NVIDIA RTX 4070,13.3,macOS,2.3,145100
+Dell Laptop 0553,Dell,4,1024,Intel Core i7,Intel Iris Xe,14.0,Linux,1.6,69700
+Apple Laptop 0554,Apple,32,512,Intel Core i3,NVIDIA RTX 4060,15.6,macOS,2.4,130300
+Dell Laptop 0555,Dell,32,2048,AMD Ryzen 3,NVIDIA RTX 4070,14.0,Windows 10,2.1,137100
+Samsung Laptop 0556,Samsung,16,512,Intel Core i5,AMD Radeon,16.0,macOS,2.5,78800
+Apple Laptop 0557,Apple,32,256,AMD Ryzen 7,AMD Radeon,13.3,macOS,2.2,116700
+LG Laptop 0558,LG,8,1024,Intel Core i5,NVIDIA RTX 4060,14.0,Linux,2.4,86700
+LG Laptop 0559,LG,16,1024,AMD Ryzen 7,NVIDIA RTX 3050,13.3,Windows 11,2.0,89400
+Dell Laptop 0560,Dell,8,512,Intel Core i3,NVIDIA GTX 1650,13.3,Linux,1.5,39700
+LG Laptop 0561,LG,32,2048,AMD Ryzen 3,Intel UHD,15.6,Windows 10,2.2,81400
+Dell Laptop 0562,Dell,8,2048,Intel Core i5,NVIDIA RTX 4070,13.3,macOS,2.1,138000
+Apple Laptop 0563,Apple,4,1024,Intel Core i3,Intel Iris Xe,15.6,macOS,1.3,80500
+Microsoft Laptop 0564,Microsoft,4,256,Intel Core i9,NVIDIA RTX 4060,14.0,Windows 10,2.0,111200
+LG Laptop 0565,LG,8,2048,Intel Core i5,NVIDIA RTX 3050,16.0,Linux,2.6,88900
+Lenovo Laptop 0566,Lenovo,64,2048,AMD Ryzen 5,AMD Radeon,17.3,Linux,2.7,125700
+Microsoft Laptop 0567,Microsoft,16,1024,AMD Ryzen 7,NVIDIA RTX 4060,15.6,Windows 10,2.1,117300
+MSI Laptop 0568,MSI,64,1024,AMD Ryzen 5,NVIDIA RTX 4070,16.0,Linux,1.2,162200
+Acer Laptop 0569,Acer,64,256,Intel Core i7,NVIDIA RTX 2050,13.3,macOS,2.8,128600
+Apple Laptop 0570,Apple,4,1024,Intel Core i7,Intel Iris Xe,13.3,macOS,1.9,98100
+Lenovo Laptop 0571,Lenovo,16,1024,Intel Core i9,NVIDIA GTX 1650,15.6,macOS,1.3,116800
+LG Laptop 0572,LG,8,256,AMD Ryzen 5,NVIDIA RTX 4070,14.0,Linux,2.5,104100
+HP Laptop 0573,HP,64,1024,Intel Core i3,NVIDIA RTX 4060,13.3,Windows 11,2.7,127000
+Apple Laptop 0574,Apple,32,2048,Intel Core i5,NVIDIA GTX 1650,17.3,macOS,2.7,140000
+Dell Laptop 0575,Dell,16,256,AMD Ryzen 5,AMD Radeon,15.6,Windows 10,1.4,58200
+Samsung Laptop 0576,Samsung,64,256,Intel Core i9,NVIDIA RTX 4060,15.6,Linux,1.4,161000
+HP Laptop 0577,HP,32,256,AMD Ryzen 7,NVIDIA RTX 2050,13.3,Linux,2.0,86400
+Lenovo Laptop 0578,Lenovo,32,512,AMD Ryzen 9,NVIDIA RTX 4060,17.3,Windows 10,2.1,139800
+ASUS Laptop 0579,ASUS,8,256,AMD Ryzen 3,NVIDIA RTX 4060,15.6,Windows 11,1.4,75900
+MSI Laptop 0580,MSI,16,1024,Intel Core i9,NVIDIA RTX 3050,15.6,Windows 11,2.4,114600
+Apple Laptop 0581,Apple,64,2048,Intel Core i7,NVIDIA RTX 4070,13.3,macOS,2.7,218400
+ASUS Laptop 0582,ASUS,16,512,Intel Core i5,Intel Iris Xe,13.3,Windows 10,2.7,54800
+Acer Laptop 0583,Acer,4,1024,Intel Core i5,NVIDIA RTX 2050,16.0,Linux,1.2,62000
+Microsoft Laptop 0584,Microsoft,8,512,AMD Ryzen 3,NVIDIA RTX 4070,17.3,Windows 10,2.3,102500
+MSI Laptop 0585,MSI,64,256,AMD Ryzen 3,AMD Radeon,13.3,macOS,1.5,107000
+Dell Laptop 0586,Dell,32,256,Intel Core i5,NVIDIA RTX 4060,15.6,macOS,2.6,112000
+Acer Laptop 0587,Acer,32,512,AMD Ryzen 7,Intel Iris Xe,15.6,Linux,2.6,87900
+HP Laptop 0588,HP,8,512,AMD Ryzen 9,Intel UHD,13.3,Windows 10,2.7,74100
+Apple Laptop 0589,Apple,32,2048,Intel Core i7,Intel UHD,15.6,macOS,2.3,140000
+Acer Laptop 0590,Acer,8,1024,Intel Core i3,NVIDIA RTX 2050,16.0,Windows 11,2.7,56800
+ASUS Laptop 0591,ASUS,8,1024,AMD Ryzen 7,AMD Radeon,13.3,Linux,2.0,68400
+MSI Laptop 0592,MSI,8,512,AMD Ryzen 7,NVIDIA RTX 2050,17.3,macOS,1.9,94300
+ASUS Laptop 0593,ASUS,8,512,Intel Core i7,NVIDIA RTX 2050,17.3,Windows 10,1.9,75500
+LG Laptop 0594,LG,8,1024,Intel Core i5,Intel Iris Xe,14.0,macOS,2.5,70600
+Dell Laptop 0595,Dell,16,2048,AMD Ryzen 7,NVIDIA RTX 2050,16.0,macOS,1.4,117500
+HP Laptop 0596,HP,8,512,Intel Core i3,NVIDIA RTX 2050,17.3,Windows 10,2.2,52900
+Dell Laptop 0597,Dell,16,256,AMD Ryzen 9,AMD Radeon,17.3,Linux,2.3,89500
+Lenovo Laptop 0598,Lenovo,32,2048,AMD Ryzen 9,AMD Radeon,14.0,Windows 10,1.6,122500
+Dell Laptop 0599,Dell,16,2048,Intel Core i9,NVIDIA GTX 1650,14.0,Windows 11,1.5,115600
+LG Laptop 0600,LG,32,1024,AMD Ryzen 9,NVIDIA GTX 1650,16.0,Linux,2.4,122800
+MSI Laptop 0601,MSI,16,2048,Intel Core i3,Intel Iris Xe,16.0,Linux,2.5,71100
+ASUS Laptop 0602,ASUS,64,2048,Intel Core i3,NVIDIA RTX 4060,17.3,Windows 11,1.5,150800
+MSI Laptop 0603,MSI,16,1024,AMD Ryzen 9,AMD Radeon,16.0,macOS,2.2,111800
+Microsoft Laptop 0604,Microsoft,8,2048,AMD Ryzen 9,Intel Iris Xe,17.3,Windows 11,1.5,118700
+Microsoft Laptop 0605,Microsoft,8,2048,AMD Ryzen 7,NVIDIA RTX 3050,16.0,Windows 11,1.5,115900
+ASUS Laptop 0606,ASUS,32,256,AMD Ryzen 3,NVIDIA RTX 3050,14.0,Windows 11,1.3,80700
+Apple Laptop 0607,Apple,4,2048,Intel Core i7,NVIDIA RTX 4060,17.3,macOS,1.8,149300
+Apple Laptop 0608,Apple,64,512,Intel Core i7,AMD Radeon,14.0,macOS,2.4,143900
+MSI Laptop 0609,MSI,16,1024,AMD Ryzen 9,NVIDIA RTX 2050,14.0,Windows 11,2.6,106700
+Dell Laptop 0610,Dell,64,1024,Intel Core i3,NVIDIA RTX 4070,16.0,Linux,2.1,146700
+LG Laptop 0611,LG,32,512,Intel Core i9,NVIDIA RTX 4070,16.0,Linux,1.9,161600
+LG Laptop 0612,LG,4,512,AMD Ryzen 3,NVIDIA GTX 1650,13.3,Windows 10,1.4,45300
+Dell Laptop 0613,Dell,8,256,AMD Ryzen 3,NVIDIA RTX 3050,13.3,Windows 11,1.4,52600
+Lenovo Laptop 0614,Lenovo,16,512,AMD Ryzen 9,NVIDIA RTX 3050,13.3,Windows 11,2.4,101100
+Apple Laptop 0615,Apple,32,256,AMD Ryzen 7,Intel Iris Xe,15.6,macOS,2.0,116700
+Acer Laptop 0616,Acer,16,2048,Intel Core i9,NVIDIA GTX 1650,17.3,Windows 11,1.4,119000
+HP Laptop 0617,HP,32,1024,AMD Ryzen 7,NVIDIA RTX 3050,15.6,macOS,2.7,128400
+Samsung Laptop 0618,Samsung,64,2048,AMD Ryzen 9,AMD Radeon,17.3,Windows 10,2.3,154200
+Dell Laptop 0619,Dell,4,256,AMD Ryzen 9,Intel Iris Xe,14.0,Linux,1.9,73600
+Apple Laptop 0620,Apple,64,512,Intel Core i3,NVIDIA GTX 1650,15.6,macOS,1.6,130100
+Acer Laptop 0621,Acer,16,1024,Intel Core i3,Intel Iris Xe,15.6,macOS,1.8,73100
+LG Laptop 0622,LG,4,512,Intel Core i9,NVIDIA RTX 3050,15.6,Linux,2.7,91600
+Lenovo Laptop 0623,Lenovo,32,512,AMD Ryzen 9,NVIDIA RTX 3050,16.0,Linux,2.7,115200
+Microsoft Laptop 0624,Microsoft,16,1024,Intel Core i3,NVIDIA GTX 1650,17.3,macOS,2.5,88100
+HP Laptop 0625,HP,8,1024,Intel Core i3,NVIDIA RTX 3050,16.0,Windows 10,2.1,66600
+Lenovo Laptop 0626,Lenovo,64,256,AMD Ryzen 3,NVIDIA RTX 3050,13.3,macOS,1.9,121700
+ASUS Laptop 0627,ASUS,16,2048,AMD Ryzen 3,NVIDIA GTX 1650,17.3,macOS,1.5,98500
+Dell Laptop 0628,Dell,8,256,AMD Ryzen 9,Intel UHD,16.0,Windows 10,1.5,78600
+Microsoft Laptop 0629,Microsoft,16,1024,Intel Core i7,Intel Iris Xe,17.3,Windows 10,1.5,84900
+Samsung Laptop 0630,Samsung,32,256,Intel Core i3,NVIDIA RTX 2050,13.3,Windows 11,1.7,63000
+HP Laptop 0631,HP,64,1024,Intel Core i3,NVIDIA RTX 2050,14.0,macOS,1.5,121300
+Acer Laptop 0632,Acer,64,1024,AMD Ryzen 9,Intel Iris Xe,15.6,Windows 10,1.5,133900
+Dell Laptop 0633,Dell,64,256,Intel Core i9,NVIDIA RTX 3050,17.3,macOS,1.6,162700
+LG Laptop 0634,LG,8,512,Intel Core i5,NVIDIA RTX 2050,17.3,macOS,2.1,77000
+Lenovo Laptop 0635,Lenovo,4,2048,Intel Core i3,Intel Iris Xe,16.0,Windows 11,1.3,60500
+Lenovo Laptop 0636,Lenovo,64,2048,AMD Ryzen 5,NVIDIA RTX 2050,15.6,Windows 10,2.3,137200
+HP Laptop 0637,HP,32,512,Intel Core i5,NVIDIA RTX 4070,13.3,Linux,1.7,123400
+Samsung Laptop 0638,Samsung,8,512,Intel Core i7,NVIDIA RTX 2050,15.6,Linux,1.5,75000
+Apple Laptop 0639,Apple,32,2048,Intel Core i3,Intel Iris Xe,16.0,macOS,1.4,124600
+Samsung Laptop 0640,Samsung,8,1024,AMD Ryzen 5,AMD Radeon,17.3,Windows 11,1.8,59400
+Apple Laptop 0641,Apple,64,256,AMD Ryzen 3,NVIDIA RTX 4070,16.0,macOS,2.1,179000
+LG Laptop 0642,LG,8,512,AMD Ryzen 9,NVIDIA RTX 4060,13.3,macOS,1.5,130800
+MSI Laptop 0643,MSI,32,1024,Intel Core i9,AMD Radeon,13.3,Linux,1.4,116000
+Samsung Laptop 0644,Samsung,16,256,AMD Ryzen 9,AMD Radeon,15.6,Linux,1.3,82600
+LG Laptop 0645,LG,32,1024,AMD Ryzen 9,Intel UHD,13.3,Windows 10,2.5,109300
+Dell Laptop 0646,Dell,8,512,AMD Ryzen 9,NVIDIA RTX 2050,16.0,Linux,1.5,93400
+Acer Laptop 0647,Acer,64,1024,AMD Ryzen 7,NVIDIA RTX 3050,13.3,Windows 11,2.2,135900
+MSI Laptop 0648,MSI,8,1024,Intel Core i3,NVIDIA RTX 3050,17.3,Windows 11,1.2,76300
+Apple Laptop 0649,Apple,4,1024,Intel Core i3,NVIDIA GTX 1650,16.0,macOS,2.3,89100
+Apple Laptop 0650,Apple,32,2048,AMD Ryzen 7,NVIDIA RTX 4060,17.3,macOS,1.5,175600
+Samsung Laptop 0651,Samsung,8,512,AMD Ryzen 7,NVIDIA RTX 3050,16.0,Windows 10,1.7,79300
+Lenovo Laptop 0652,Lenovo,4,256,Intel Core i3,AMD Radeon,16.0,Linux,2.8,31300
+HP Laptop 0653,HP,8,2048,AMD Ryzen 9,NVIDIA RTX 4060,17.3,Windows 10,1.9,138100
+Microsoft Laptop 0654,Microsoft,32,2048,AMD Ryzen 5,NVIDIA GTX 1650,14.0,Linux,2.2,111300
+Samsung Laptop 0655,Samsung,8,1024,AMD Ryzen 7,NVIDIA RTX 3050,13.3,Windows 11,2.1,86200
+HP Laptop 0656,HP,64,2048,Intel Core i5,AMD Radeon,17.3,macOS,1.9,136300
+Microsoft Laptop 0657,Microsoft,64,256,Intel Core i9,NVIDIA RTX 4070,13.3,macOS,2.2,200700
+Microsoft Laptop 0658,Microsoft,4,2048,AMD Ryzen 9,NVIDIA RTX 4070,17.3,macOS,1.9,176400
+Acer Laptop 0659,Acer,8,256,AMD Ryzen 3,NVIDIA RTX 2050,13.3,Linux,2.1,50000
+Dell Laptop 0660,Dell,16,256,AMD Ryzen 3,NVIDIA RTX 4070,13.3,Windows 10,2.0,96400
+Acer Laptop 0661,Acer,8,1024,AMD Ryzen 3,NVIDIA RTX 2050,13.3,Windows 11,2.2,60800
+Lenovo Laptop 0662,Lenovo,32,1024,Intel Core i7,NVIDIA RTX 2050,14.0,Linux,1.5,102900
+Dell Laptop 0663,Dell,16,256,Intel Core i7,AMD Radeon,16.0,Linux,2.4,67300
+Samsung Laptop 0664,Samsung,8,512,AMD Ryzen 5,Intel UHD,15.6,Windows 11,1.3,52200
+MSI Laptop 0665,MSI,32,1024,AMD Ryzen 9,NVIDIA GTX 1650,16.0,Linux,2.0,118200
+Microsoft Laptop 0666,Microsoft,32,256,AMD Ryzen 3,NVIDIA RTX 4070,16.0,macOS,2.7,134000
+HP Laptop 0667,HP,64,1024,AMD Ryzen 7,NVIDIA RTX 2050,15.6,macOS,1.6,143600
+Acer Laptop 0668,Acer,64,2048,AMD Ryzen 9,NVIDIA GTX 1650,17.3,Windows 10,2.0,156500
+Apple Laptop 0669,Apple,64,256,Intel Core i3,Intel Iris Xe,13.3,macOS,1.9,125700
+HP Laptop 0670,HP,32,1024,Intel Core i9,NVIDIA RTX 2050,15.6,Windows 10,1.3,116700
+Dell Laptop 0671,Dell,64,512,Intel Core i5,Intel Iris Xe,13.3,Windows 10,1.8,103800
+Lenovo Laptop 0672,Lenovo,4,512,AMD Ryzen 3,NVIDIA RTX 2050,16.0,Windows 11,2.2,50600
+MSI Laptop 0673,MSI,16,1024,Intel Core i7,Intel Iris Xe,15.6,Windows 11,1.8,83200
+Dell Laptop 0674,Dell,16,1024,Intel Core i7,NVIDIA RTX 4070,13.3,Linux,2.8,124600
+LG Laptop 0675,LG,32,512,AMD Ryzen 9,Intel Iris Xe,14.0,Linux,1.5,99500
+Samsung Laptop 0676,Samsung,16,256,Intel Core i3,Intel Iris Xe,13.3,macOS,2.4,53200
+Samsung Laptop 0677,Samsung,8,256,Intel Core i3,NVIDIA RTX 4060,15.6,Windows 10,2.3,71500
+LG Laptop 0678,LG,4,2048,AMD Ryzen 9,NVIDIA RTX 4060,16.0,Windows 11,2.1,127700
+MSI Laptop 0679,MSI,32,256,AMD Ryzen 5,NVIDIA RTX 3050,15.6,Linux,1.3,88200
+Apple Laptop 0680,Apple,64,1024,Intel Core i5,NVIDIA RTX 4070,15.6,macOS,2.2,194900
+Microsoft Laptop 0681,Microsoft,4,2048,Intel Core i9,NVIDIA RTX 2050,16.0,Windows 11,2.2,119500
+Samsung Laptop 0682,Samsung,4,2048,Intel Core i9,AMD Radeon,13.3,Windows 10,1.2,100800
+ASUS Laptop 0683,ASUS,32,2048,Intel Core i5,NVIDIA RTX 2050,16.0,Linux,2.7,102100
+Dell Laptop 0684,Dell,16,256,AMD Ryzen 5,Intel UHD,16.0,Windows 11,1.5,57500
+Samsung Laptop 0685,Samsung,64,512,Intel Core i9,Intel Iris Xe,13.3,Windows 10,2.0,124900
+Samsung Laptop 0686,Samsung,64,256,Intel Core i9,AMD Radeon,13.3,Windows 10,2.2,125600
+HP Laptop 0687,HP,32,512,Intel Core i5,Intel Iris Xe,13.3,Linux,2.2,68400
+HP Laptop 0688,HP,8,2048,AMD Ryzen 5,NVIDIA RTX 4060,15.6,Windows 11,2.8,109000
+Microsoft Laptop 0689,Microsoft,8,1024,Intel Core i9,Intel UHD,17.3,Windows 10,1.7,93100
+Acer Laptop 0690,Acer,8,2048,Intel Core i7,NVIDIA RTX 3050,17.3,Windows 10,1.9,105700
+Dell Laptop 0691,Dell,8,256,AMD Ryzen 7,AMD Radeon,13.3,Linux,1.3,53300
+Lenovo Laptop 0692,Lenovo,4,1024,AMD Ryzen 7,NVIDIA RTX 4070,14.0,Windows 10,1.4,115500
+Microsoft Laptop 0693,Microsoft,32,2048,Intel Core i9,AMD Radeon,17.3,Windows 11,2.2,138400
+LG Laptop 0694,LG,4,1024,AMD Ryzen 5,NVIDIA RTX 4060,13.3,Windows 10,1.5,89200
+HP Laptop 0695,HP,64,1024,Intel Core i9,NVIDIA RTX 4070,14.0,macOS,1.3,199400
+Lenovo Laptop 0696,Lenovo,32,2048,Intel Core i7,AMD Radeon,13.3,Windows 11,2.2,101400
+ASUS Laptop 0697,ASUS,32,1024,AMD Ryzen 5,NVIDIA RTX 4070,13.3,Windows 11,2.4,134600
+Lenovo Laptop 0698,Lenovo,8,256,AMD Ryzen 9,Intel Iris Xe,13.3,Windows 10,2.4,78900
+LG Laptop 0699,LG,16,2048,Intel Core i9,NVIDIA RTX 3050,14.0,Windows 11,1.7,122000
+ASUS Laptop 0700,ASUS,32,512,AMD Ryzen 7,NVIDIA GTX 1650,13.3,Linux,2.1,85600
+MSI Laptop 0701,MSI,8,512,AMD Ryzen 9,AMD Radeon,16.0,macOS,1.4,99900
+Apple Laptop 0702,Apple,16,512,AMD Ryzen 5,AMD Radeon,13.3,macOS,2.3,88800
+Acer Laptop 0703,Acer,8,256,AMD Ryzen 9,NVIDIA RTX 4070,16.0,Windows 10,2.4,126300
+Acer Laptop 0704,Acer,64,512,Intel Core i7,NVIDIA GTX 1650,13.3,Linux,2.6,116600
+ASUS Laptop 0705,ASUS,64,2048,AMD Ryzen 9,NVIDIA RTX 2050,13.3,Linux,2.4,160600
+ASUS Laptop 0706,ASUS,16,2048,Intel Core i9,AMD Radeon,17.3,Windows 11,1.9,109600
+Dell Laptop 0707,Dell,32,256,AMD Ryzen 7,NVIDIA RTX 4060,16.0,Windows 11,1.9,114200
+HP Laptop 0708,HP,64,256,AMD Ryzen 7,NVIDIA GTX 1650,14.0,macOS,1.7,125600
+Dell Laptop 0709,Dell,32,1024,Intel Core i7,NVIDIA RTX 4070,17.3,Windows 11,2.8,149300
+Lenovo Laptop 0710,Lenovo,32,512,AMD Ryzen 5,NVIDIA RTX 4070,13.3,Windows 11,1.8,121700
+Microsoft Laptop 0711,Microsoft,4,1024,AMD Ryzen 7,NVIDIA RTX 2050,17.3,Windows 10,2.5,85900
+LG Laptop 0712,LG,16,256,AMD Ryzen 5,Intel UHD,13.3,Linux,1.8,46500
+Apple Laptop 0713,Apple,16,512,Intel Core i5,NVIDIA GTX 1650,14.0,macOS,2.8,97300
+Microsoft Laptop 0714,Microsoft,4,2048,Intel Core i9,NVIDIA GTX 1650,15.6,macOS,2.6,131200
+MSI Laptop 0715,MSI,16,256,Intel Core i5,NVIDIA RTX 3050,15.6,Linux,2.0,79900
+HP Laptop 0716,HP,32,1024,AMD Ryzen 9,NVIDIA RTX 3050,13.3,Windows 10,2.6,125300
+HP Laptop 0717,HP,4,2048,Intel Core i7,NVIDIA RTX 2050,13.3,Windows 11,1.5,84400
+Lenovo Laptop 0718,Lenovo,32,512,Intel Core i9,Intel UHD,15.6,Linux,2.8,102600
+Lenovo Laptop 0719,Lenovo,32,1024,AMD Ryzen 7,NVIDIA RTX 4070,13.3,macOS,1.5,150600
+ASUS Laptop 0720,ASUS,64,1024,AMD Ryzen 7,NVIDIA RTX 3050,15.6,Linux,2.1,143700
+Microsoft Laptop 0721,Microsoft,32,2048,AMD Ryzen 3,AMD Radeon,15.6,Windows 10,2.5,94400
+Samsung Laptop 0722,Samsung,16,1024,Intel Core i3,AMD Radeon,15.6,macOS,1.9,69000
+LG Laptop 0723,LG,8,1024,Intel Core i7,AMD Radeon,14.0,Windows 10,1.6,65400
+Apple Laptop 0724,Apple,64,512,AMD Ryzen 9,NVIDIA RTX 2050,15.6,macOS,1.5,183200
+Dell Laptop 0725,Dell,16,1024,Intel Core i7,NVIDIA RTX 3050,16.0,Windows 10,2.1,92400
+Dell Laptop 0726,Dell,32,2048,Intel Core i7,NVIDIA RTX 4070,15.6,Windows 10,1.2,162100
+Microsoft Laptop 0727,Microsoft,16,1024,AMD Ryzen 9,NVIDIA RTX 2050,17.3,Windows 10,2.5,119600
+Apple Laptop 0728,Apple,4,2048,Intel Core i3,AMD Radeon,17.3,macOS,1.4,93500
+MSI Laptop 0729,MSI,64,512,AMD Ryzen 9,NVIDIA RTX 3050,13.3,macOS,1.3,162700
+LG Laptop 0730,LG,64,512,AMD Ryzen 3,NVIDIA GTX 1650,13.3,Windows 11,2.1,100800
+HP Laptop 0731,HP,64,2048,Intel Core i9,NVIDIA RTX 4070,15.6,Windows 11,2.7,204900
+MSI Laptop 0732,MSI,8,2048,AMD Ryzen 5,NVIDIA RTX 4060,15.6,Windows 11,1.7,110400
+Acer Laptop 0733,Acer,32,256,Intel Core i9,NVIDIA RTX 4070,16.0,Linux,1.7,151200
+MSI Laptop 0734,MSI,8,256,Intel Core i7,NVIDIA GTX 1650,15.6,Linux,2.8,73700
+Apple Laptop 0735,Apple,4,2048,Intel Core i5,Intel UHD,16.0,macOS,2.2,102100
+MSI Laptop 0736,MSI,8,2048,Intel Core i7,NVIDIA GTX 1650,14.0,Linux,1.7,95200
+Dell Laptop 0737,Dell,16,1024,AMD Ryzen 9,NVIDIA RTX 4070,14.0,Windows 11,2.5,142900
+Acer Laptop 0738,Acer,16,2048,Intel Core i5,NVIDIA RTX 2050,16.0,Windows 10,2.0,87400
+Dell Laptop 0739,Dell,4,1024,AMD Ryzen 9,Intel Iris Xe,17.3,macOS,2.1,107800
+MSI Laptop 0740,MSI,16,2048,Intel Core i5,NVIDIA RTX 3050,17.3,Windows 11,2.6,101000
+LG Laptop 0741,LG,4,512,AMD Ryzen 5,NVIDIA RTX 4070,14.0,macOS,1.5,114100
+Apple Laptop 0742,Apple,32,1024,Intel Core i3,NVIDIA RTX 2050,15.6,macOS,2.0,113500
+Microsoft Laptop 0743,Microsoft,8,512,Intel Core i5,AMD Radeon,17.3,macOS,2.6,77600
+Acer Laptop 0744,Acer,16,256,AMD Ryzen 5,AMD Radeon,13.3,Windows 10,2.0,51500
+Samsung Laptop 0745,Samsung,32,1024,Intel Core i7,Intel Iris Xe,14.0,Windows 10,2.0,88900
+Microsoft Laptop 0746,Microsoft,64,256,AMD Ryzen 7,NVIDIA RTX 4070,13.3,Windows 11,2.5,163300
+Samsung Laptop 0747,Samsung,16,1024,AMD Ryzen 5,AMD Radeon,16.0,macOS,1.5,82900
+Dell Laptop 0748,Dell,4,512,Intel Core i7,AMD Radeon,14.0,macOS,1.4,70200
+HP Laptop 0749,HP,32,256,Intel Core i5,Intel UHD,16.0,Linux,1.3,63100
+Dell Laptop 0750,Dell,64,256,AMD Ryzen 9,Intel Iris Xe,15.6,Windows 11,1.3,124700
+HP Laptop 0751,HP,4,512,Intel Core i9,AMD Radeon,15.6,Windows 11,1.3,77000
+LG Laptop 0752,LG,16,1024,Intel Core i7,NVIDIA GTX 1650,17.3,Windows 11,1.4,91800
+Dell Laptop 0753,Dell,64,512,Intel Core i9,NVIDIA RTX 2050,14.0,Windows 11,2.8,137200
+ASUS Laptop 0754,ASUS,64,2048,AMD Ryzen 5,AMD Radeon,16.0,Windows 11,1.5,126900
+MSI Laptop 0755,MSI,32,512,Intel Core i9,NVIDIA RTX 4060,13.3,macOS,1.4,147600
+Microsoft Laptop 0756,Microsoft,8,2048,AMD Ryzen 5,NVIDIA RTX 2050,17.3,Windows 11,1.3,98200
+HP Laptop 0757,HP,32,1024,AMD Ryzen 9,NVIDIA RTX 2050,16.0,Windows 10,2.1,120600
+MSI Laptop 0758,MSI,8,256,AMD Ryzen 9,NVIDIA RTX 3050,14.0,Windows 11,2.8,99800
+HP Laptop 0759,HP,32,2048,Intel Core i5,Intel Iris Xe,14.0,Linux,1.8,96500
+HP Laptop 0760,HP,8,256,AMD Ryzen 5,NVIDIA GTX 1650,15.6,Windows 10,2.2,55700
+HP Laptop 0761,HP,8,2048,AMD Ryzen 9,NVIDIA RTX 2050,17.3,macOS,2.4,131700
+Apple Laptop 0762,Apple,32,2048,AMD Ryzen 9,NVIDIA RTX 2050,14.0,macOS,2.4,165600
+HP Laptop 0763,HP,16,2048,AMD Ryzen 9,NVIDIA GTX 1650,14.0,Windows 11,1.4,108300
+HP Laptop 0764,HP,32,256,Intel Core i7,NVIDIA RTX 4060,17.3,macOS,1.4,126800
+HP Laptop 0765,HP,64,2048,AMD Ryzen 9,NVIDIA GTX 1650,15.6,Linux,2.0,157300
+Microsoft Laptop 0766,Microsoft,16,256,Intel Core i3,NVIDIA RTX 4060,13.3,Linux,1.9,83000
+Samsung Laptop 0767,Samsung,32,256,Intel Core i3,AMD Radeon,17.3,macOS,2.6,75400
+Samsung Laptop 0768,Samsung,32,512,AMD Ryzen 3,NVIDIA RTX 4060,16.0,Windows 11,2.1,101800
+Microsoft Laptop 0769,Microsoft,64,2048,AMD Ryzen 9,AMD Radeon,17.3,Windows 11,1.8,167200
+LG Laptop 0770,LG,32,1024,AMD Ryzen 3,NVIDIA RTX 3050,13.3,Windows 11,2.1,84800
+Apple Laptop 0771,Apple,16,256,AMD Ryzen 5,NVIDIA RTX 4060,13.3,macOS,1.9,121700
+MSI Laptop 0772,MSI,16,256,Intel Core i9,NVIDIA GTX 1650,14.0,macOS,2.1,104000
+Acer Laptop 0773,Acer,4,1024,Intel Core i7,Intel UHD,17.3,macOS,1.3,80500
+LG Laptop 0774,LG,64,2048,AMD Ryzen 3,Intel UHD,16.0,Windows 11,2.8,115800
+LG Laptop 0775,LG,32,1024,Intel Core i5,NVIDIA RTX 4070,13.3,Windows 10,1.7,133000
+Apple Laptop 0776,Apple,8,1024,AMD Ryzen 5,NVIDIA RTX 4060,14.0,macOS,2.0,121400
+Microsoft Laptop 0777,Microsoft,8,1024,AMD Ryzen 3,Intel UHD,15.6,Linux,2.5,53100
+LG Laptop 0778,LG,4,1024,AMD Ryzen 3,Intel Iris Xe,17.3,Linux,1.9,53200
+HP Laptop 0779,HP,16,1024,AMD Ryzen 7,NVIDIA RTX 3050,14.0,Linux,1.8,95800
+Samsung Laptop 0780,Samsung,64,512,Intel Core i3,AMD Radeon,17.3,Linux,1.5,97700
+Acer Laptop 0781,Acer,64,2048,Intel Core i3,NVIDIA GTX 1650,15.6,Linux,1.4,113500
+Acer Laptop 0782,Acer,32,2048,AMD Ryzen 5,Intel Iris Xe,14.0,Linux,1.6,90500
+Lenovo Laptop 0783,Lenovo,16,512,AMD Ryzen 7,NVIDIA GTX 1650,13.3,Windows 10,1.5,71900
+Acer Laptop 0784,Acer,32,2048,AMD Ryzen 7,NVIDIA RTX 4060,13.3,Windows 10,1.5,130000
+Dell Laptop 0785,Dell,16,1024,Intel Core i7,Intel UHD,16.0,Windows 11,1.3,71800
+Apple Laptop 0786,Apple,64,1024,Intel Core i5,NVIDIA RTX 4060,15.6,macOS,2.3,173500
+MSI Laptop 0787,MSI,8,512,Intel Core i5,Intel Iris Xe,17.3,macOS,2.0,70600
+ASUS Laptop 0788,ASUS,64,256,AMD Ryzen 5,NVIDIA RTX 3050,17.3,Linux,2.5,118900
+MSI Laptop 0789,MSI,8,512,Intel Core i5,AMD Radeon,14.0,macOS,1.9,67900
+LG Laptop 0790,LG,4,2048,AMD Ryzen 5,Intel Iris Xe,15.6,Linux,2.0,71000
+Acer Laptop 0791,Acer,8,1024,AMD Ryzen 9,NVIDIA RTX 3050,15.6,Windows 11,2.2,107500
+Dell Laptop 0792,Dell,4,512,AMD Ryzen 3,NVIDIA RTX 4060,15.6,macOS,2.6,85000
+Microsoft Laptop 0793,Microsoft,8,2048,AMD Ryzen 7,Intel UHD,16.0,macOS,1.7,105100
+Acer Laptop 0794,Acer,8,512,AMD Ryzen 9,NVIDIA RTX 3050,16.0,Windows 11,1.6,92500
+Samsung Laptop 0795,Samsung,32,2048,AMD Ryzen 5,NVIDIA RTX 4060,13.3,Windows 10,2.3,127000
+HP Laptop 0796,HP,16,2048,AMD Ryzen 5,NVIDIA RTX 4070,13.3,Windows 11,2.2,126400
+Samsung Laptop 0797,Samsung,8,256,AMD Ryzen 7,NVIDIA GTX 1650,15.6,macOS,2.1,78900
+Lenovo Laptop 0798,Lenovo,8,512,AMD Ryzen 7,NVIDIA RTX 3050,16.0,Linux,2.6,77900
+Acer Laptop 0799,Acer,8,1024,AMD Ryzen 3,NVIDIA GTX 1650,13.3,Linux,1.8,52600
+MSI Laptop 0800,MSI,64,512,Intel Core i3,Intel UHD,17.3,Windows 10,2.7,98100
+ASUS Laptop 0801,ASUS,16,512,Intel Core i3,NVIDIA RTX 4060,17.3,Linux,2.2,81800
+HP Laptop 0802,HP,16,512,Intel Core i5,Intel UHD,17.3,Linux,2.4,59800
+Samsung Laptop 0803,Samsung,4,512,Intel Core i9,NVIDIA GTX 1650,15.6,macOS,2.4,100300
+Lenovo Laptop 0804,Lenovo,32,512,Intel Core i9,NVIDIA RTX 2050,14.0,Linux,1.5,107700
+Dell Laptop 0805,Dell,16,1024,Intel Core i9,NVIDIA RTX 4070,14.0,macOS,2.1,162900
+HP Laptop 0806,HP,4,2048,Intel Core i7,NVIDIA RTX 3050,16.0,Windows 10,2.3,99500
+LG Laptop 0807,LG,16,256,Intel Core i5,Intel UHD,13.3,macOS,2.7,67600
+Apple Laptop 0808,Apple,64,256,Intel Core i3,NVIDIA RTX 2050,17.3,macOS,2.2,138000
+MSI Laptop 0809,MSI,16,512,Intel Core i3,AMD Radeon,15.6,Windows 10,2.0,53900
+Samsung Laptop 0810,Samsung,8,256,AMD Ryzen 5,NVIDIA RTX 4060,14.0,macOS,1.4,89400
+Lenovo Laptop 0811,Lenovo,32,1024,AMD Ryzen 5,NVIDIA RTX 4060,15.6,macOS,2.2,126000
+Microsoft Laptop 0812,Microsoft,16,2048,Intel Core i7,NVIDIA RTX 3050,16.0,Windows 10,2.1,119600
+Dell Laptop 0813,Dell,8,512,Intel Core i3,NVIDIA GTX 1650,14.0,Windows 11,2.0,42900
+Samsung Laptop 0814,Samsung,32,256,AMD Ryzen 9,Intel UHD,16.0,macOS,2.8,116500
+Samsung Laptop 0815,Samsung,32,2048,Intel Core i5,AMD Radeon,13.3,macOS,1.3,105900
+Lenovo Laptop 0816,Lenovo,8,1024,Intel Core i9,Intel UHD,17.3,Windows 10,1.9,82900
+ASUS Laptop 0817,ASUS,32,256,AMD Ryzen 5,Intel UHD,15.6,Windows 11,1.8,73400
+HP Laptop 0818,HP,16,512,Intel Core i3,Intel Iris Xe,16.0,Linux,1.9,48800
+LG Laptop 0819,LG,4,1024,Intel Core i3,NVIDIA RTX 4070,15.6,Windows 10,1.5,93800
+Acer Laptop 0820,Acer,16,256,Intel Core i5,NVIDIA RTX 4060,13.3,Linux,1.6,79800
+MSI Laptop 0821,MSI,4,256,Intel Core i9,AMD Radeon,16.0,Linux,1.7,77100
+HP Laptop 0822,HP,16,2048,AMD Ryzen 7,NVIDIA RTX 2050,17.3,Windows 10,1.8,101900
+Apple Laptop 0823,Apple,64,512,AMD Ryzen 9,NVIDIA RTX 4070,16.0,macOS,2.0,224800
+LG Laptop 0824,LG,32,256,AMD Ryzen 7,NVIDIA RTX 3050,17.3,Windows 10,1.9,105200
+HP Laptop 0825,HP,4,1024,AMD Ryzen 9,NVIDIA GTX 1650,14.0,Linux,2.0,91200
+HP Laptop 0826,HP,16,2048,AMD Ryzen 7,Intel Iris Xe,16.0,macOS,1.4,105500
+Acer Laptop 0827,Acer,8,2048,AMD Ryzen 3,Intel UHD,17.3,Windows 11,2.7,65600
+HP Laptop 0828,HP,64,2048,AMD Ryzen 7,Intel Iris Xe,16.0,macOS,1.8,156200
+HP Laptop 0829,HP,64,256,Intel Core i5,NVIDIA RTX 4070,14.0,Windows 10,2.5,142800
+HP Laptop 0830,HP,32,1024,AMD Ryzen 5,NVIDIA RTX 4070,16.0,macOS,1.7,145900
+ASUS Laptop 0831,ASUS,8,256,AMD Ryzen 3,Intel Iris Xe,16.0,Windows 11,1.2,40600
+Dell Laptop 0832,Dell,8,2048,AMD Ryzen 9,NVIDIA RTX 4060,17.3,Linux,1.7,138100
+MSI Laptop 0833,MSI,16,256,Intel Core i7,AMD Radeon,13.3,Windows 10,1.4,63600
+ASUS Laptop 0834,ASUS,4,512,AMD Ryzen 9,AMD Radeon,14.0,Linux,2.5,80900
+ASUS Laptop 0835,ASUS,4,1024,AMD Ryzen 9,AMD Radeon,16.0,Linux,1.2,84800
+Lenovo Laptop 0836,Lenovo,32,2048,AMD Ryzen 9,Intel UHD,16.0,Windows 10,1.5,124600
+MSI Laptop 0837,MSI,4,1024,Intel Core i3,Intel Iris Xe,16.0,Linux,2.6,55100
+LG Laptop 0838,LG,64,1024,Intel Core i3,NVIDIA RTX 4070,16.0,Linux,2.0,155600
+ASUS Laptop 0839,ASUS,4,256,AMD Ryzen 7,NVIDIA RTX 3050,17.3,Windows 11,1.6,79900
+Samsung Laptop 0840,Samsung,4,2048,AMD Ryzen 5,NVIDIA RTX 4070,16.0,Windows 11,1.5,120700
+Samsung Laptop 0841,Samsung,16,2048,Intel Core i9,NVIDIA GTX 1650,17.3,macOS,2.7,136000
+Lenovo Laptop 0842,Lenovo,16,2048,AMD Ryzen 7,NVIDIA RTX 3050,16.0,Windows 10,2.2,108500
+HP Laptop 0843,HP,32,512,Intel Core i7,NVIDIA GTX 1650,14.0,Linux,1.4,89600
+Samsung Laptop 0844,Samsung,16,512,Intel Core i9,Intel UHD,13.3,macOS,2.6,98200
+Lenovo Laptop 0845,Lenovo,8,256,Intel Core i5,NVIDIA RTX 3050,16.0,Windows 11,2.2,61200
+Microsoft Laptop 0846,Microsoft,8,2048,AMD Ryzen 3,NVIDIA RTX 3050,15.6,Windows 11,2.4,94700
+Acer Laptop 0847,Acer,8,256,Intel Core i3,NVIDIA RTX 4070,16.0,Windows 11,2.8,92700
+HP Laptop 0848,HP,64,256,Intel Core i5,AMD Radeon,13.3,Windows 10,2.7,92100
+Acer Laptop 0849,Acer,32,2048,Intel Core i5,AMD Radeon,15.6,macOS,2.5,103700
+ASUS Laptop 0850,ASUS,32,2048,Intel Core i3,NVIDIA GTX 1650,16.0,macOS,1.7,104600
+HP Laptop 0851,HP,16,1024,AMD Ryzen 7,NVIDIA RTX 3050,14.0,Windows 10,2.4,96100
+MSI Laptop 0852,MSI,8,512,AMD Ryzen 7,NVIDIA RTX 4060,16.0,Linux,2.7,104700
+Apple Laptop 0853,Apple,4,2048,Intel Core i7,Intel UHD,17.3,macOS,2.7,112900
+Apple Laptop 0854,Apple,16,2048,Intel Core i7,NVIDIA RTX 4060,13.3,macOS,1.8,152000
+Lenovo Laptop 0855,Lenovo,64,256,AMD Ryzen 3,NVIDIA RTX 4060,16.0,macOS,2.4,137700
+Apple Laptop 0856,Apple,4,1024,Intel Core i7,NVIDIA RTX 4060,16.0,macOS,2.2,139500
+LG Laptop 0857,LG,64,2048,AMD Ryzen 5,NVIDIA RTX 4060,14.0,macOS,1.3,173400
+Apple Laptop 0858,Apple,32,512,AMD Ryzen 3,NVIDIA GTX 1650,13.3,macOS,2.0,104900
+Microsoft Laptop 0859,Microsoft,16,512,Intel Core i3,Intel UHD,17.3,macOS,1.6,71300
+MSI Laptop 0860,MSI,64,256,Intel Core i3,NVIDIA RTX 3050,15.6,macOS,1.4,121500
+Samsung Laptop 0861,Samsung,16,256,AMD Ryzen 9,NVIDIA RTX 3050,14.0,Windows 10,1.8,99600
+LG Laptop 0862,LG,8,2048,Intel Core i9,Intel Iris Xe,15.6,Windows 10,2.5,105500
+Samsung Laptop 0863,Samsung,4,512,AMD Ryzen 7,NVIDIA RTX 4060,13.3,Windows 11,1.3,86700
+Samsung Laptop 0864,Samsung,8,2048,Intel Core i5,NVIDIA RTX 3050,17.3,Linux,2.1,95700
+MSI Laptop 0865,MSI,16,2048,AMD Ryzen 7,NVIDIA RTX 4070,16.0,Linux,2.5,146800
+Microsoft Laptop 0866,Microsoft,8,2048,AMD Ryzen 9,AMD Radeon,17.3,Windows 11,2.3,116100
+Samsung Laptop 0867,Samsung,4,512,AMD Ryzen 5,Intel Iris Xe,17.3,Linux,1.4,53600
+LG Laptop 0868,LG,16,256,Intel Core i7,Intel Iris Xe,15.6,macOS,2.8,84300
+Acer Laptop 0869,Acer,32,256,Intel Core i7,AMD Radeon,17.3,Linux,1.3,81700
+Acer Laptop 0870,Acer,8,512,AMD Ryzen 9,Intel UHD,13.3,macOS,1.3,82900
+MSI Laptop 0871,MSI,32,1024,AMD Ryzen 9,NVIDIA RTX 3050,16.0,Linux,2.5,136700
+Lenovo Laptop 0872,Lenovo,8,2048,AMD Ryzen 9,NVIDIA RTX 4070,14.0,macOS,1.3,167400
+MSI Laptop 0873,MSI,8,2048,AMD Ryzen 5,Intel UHD,16.0,macOS,2.2,87900
+Dell Laptop 0874,Dell,64,1024,Intel Core i5,Intel Iris Xe,14.0,Windows 11,2.7,111100
+ASUS Laptop 0875,ASUS,32,256,Intel Core i5,AMD Radeon,13.3,macOS,2.5,81800
+LG Laptop 0876,LG,32,256,AMD Ryzen 5,NVIDIA RTX 4060,17.3,Windows 11,2.0,101600
+Apple Laptop 0877,Apple,32,512,AMD Ryzen 7,Intel UHD,17.3,macOS,1.7,121000
+HP Laptop 0878,HP,4,256,Intel Core i7,NVIDIA RTX 2050,14.0,Windows 10,1.6,60600
+Lenovo Laptop 0879,Lenovo,16,2048,Intel Core i7,Intel UHD,17.3,macOS,1.5,100800
+Acer Laptop 0880,Acer,32,256,AMD Ryzen 5,AMD Radeon,16.0,macOS,1.6,80800
+Dell Laptop 0881,Dell,8,512,Intel Core i9,NVIDIA RTX 4070,17.3,Linux,2.7,135600
+Dell Laptop 0882,Dell,16,2048,AMD Ryzen 7,Intel Iris Xe,16.0,Windows 11,1.9,93200
+Dell Laptop 0883,Dell,16,256,Intel Core i9,AMD Radeon,15.6,Linux,1.9,89000
+ASUS Laptop 0884,ASUS,8,1024,Intel Core i7,NVIDIA GTX 1650,17.3,Linux,2.7,84200
+Samsung Laptop 0885,Samsung,4,256,AMD Ryzen 9,NVIDIA RTX 2050,14.0,Windows 11,1.3,86000
+Acer Laptop 0886,Acer,64,1024,AMD Ryzen 7,NVIDIA RTX 3050,14.0,macOS,1.3,152400
+LG Laptop 0887,LG,4,1024,Intel Core i5,NVIDIA RTX 4060,13.3,Windows 10,2.4,84100
+MSI Laptop 0888,MSI,8,1024,AMD Ryzen 5,NVIDIA RTX 2050,16.0,macOS,1.6,90500
+Apple Laptop 0889,Apple,8,2048,AMD Ryzen 5,Intel UHD,14.0,macOS,2.2,99200
+LG Laptop 0890,LG,32,256,Intel Core i3,AMD Radeon,16.0,Linux,2.4,65600
+HP Laptop 0891,HP,4,256,AMD Ryzen 9,Intel Iris Xe,15.6,Linux,2.5,75400
+MSI Laptop 0892,MSI,8,256,Intel Core i5,NVIDIA RTX 4070,15.6,Windows 10,1.9,102700
+Dell Laptop 0893,Dell,16,1024,Intel Core i9,Intel Iris Xe,17.3,macOS,2.5,113000
+ASUS Laptop 0894,ASUS,32,1024,Intel Core i3,NVIDIA RTX 2050,16.0,Windows 10,1.2,84300
+HP Laptop 0895,HP,16,2048,Intel Core i7,NVIDIA GTX 1650,17.3,Windows 10,1.3,96500
+HP Laptop 0896,HP,8,1024,Intel Core i9,NVIDIA RTX 2050,14.0,Windows 11,2.8,99900
+LG Laptop 0897,LG,16,2048,Intel Core i3,NVIDIA RTX 4060,13.3,macOS,1.9,116000
+Acer Laptop 0898,Acer,4,2048,AMD Ryzen 9,NVIDIA RTX 3050,17.3,Windows 11,2.6,114200
+Dell Laptop 0899,Dell,16,2048,AMD Ryzen 9,NVIDIA RTX 3050,13.3,Linux,1.5,119700
+LG Laptop 0900,LG,4,512,AMD Ryzen 7,Intel Iris Xe,14.0,Windows 10,1.5,60700
+HP Laptop 0901,HP,4,256,AMD Ryzen 9,NVIDIA RTX 4060,13.3,macOS,2.5,116100
+HP Laptop 0902,HP,32,512,AMD Ryzen 5,Intel UHD,15.6,Windows 10,2.7,75000
+LG Laptop 0903,LG,32,256,AMD Ryzen 9,Intel Iris Xe,13.3,Windows 11,2.7,99400
+Apple Laptop 0904,Apple,4,512,Intel Core i3,NVIDIA RTX 4070,13.3,macOS,1.7,124600
+HP Laptop 0905,HP,4,256,Intel Core i3,NVIDIA RTX 2050,16.0,Linux,1.4,46800
+ASUS Laptop 0906,ASUS,64,256,AMD Ryzen 9,NVIDIA RTX 4060,16.0,Linux,2.6,158800
+Apple Laptop 0907,Apple,4,2048,AMD Ryzen 5,NVIDIA GTX 1650,13.3,macOS,1.4,113300
+HP Laptop 0908,HP,64,512,Intel Core i7,NVIDIA RTX 2050,15.6,Linux,2.0,126300
+Lenovo Laptop 0909,Lenovo,8,512,Intel Core i3,Intel UHD,14.0,macOS,2.1,53100
+Apple Laptop 0910,Apple,16,512,Intel Core i7,NVIDIA RTX 4070,15.6,macOS,2.2,158600
+Apple Laptop 0911,Apple,4,512,Intel Core i3,NVIDIA GTX 1650,17.3,macOS,2.5,86700
+Dell Laptop 0912,Dell,32,1024,Intel Core i9,NVIDIA GTX 1650,14.0,Windows 11,1.7,116600
+Samsung Laptop 0913,Samsung,64,1024,AMD Ryzen 5,NVIDIA RTX 2050,16.0,macOS,1.5,139000
+Dell Laptop 0914,Dell,32,512,Intel Core i3,NVIDIA GTX 1650,14.0,Linux,2.2,65700
+Samsung Laptop 0915,Samsung,16,2048,Intel Core i9,NVIDIA RTX 4060,14.0,Windows 11,1.8,135600
+Apple Laptop 0916,Apple,4,256,Intel Core i7,NVIDIA RTX 2050,16.0,macOS,1.5,108700
+Apple Laptop 0917,Apple,4,256,Intel Core i9,NVIDIA GTX 1650,15.6,macOS,1.5,115800
+Lenovo Laptop 0918,Lenovo,16,512,Intel Core i7,NVIDIA GTX 1650,13.3,Windows 10,2.5,68500
+Dell Laptop 0919,Dell,8,2048,Intel Core i5,NVIDIA RTX 3050,14.0,macOS,1.9,103300
+Apple Laptop 0920,Apple,8,2048,Intel Core i5,Intel Iris Xe,14.0,macOS,2.6,104300
+ASUS Laptop 0921,ASUS,8,2048,AMD Ryzen 5,NVIDIA RTX 3050,17.3,Linux,2.8,93200
+Dell Laptop 0922,Dell,64,512,AMD Ryzen 3,AMD Radeon,15.6,Windows 10,1.3,95100
+Lenovo Laptop 0923,Lenovo,64,2048,Intel Core i9,Intel Iris Xe,16.0,Windows 11,1.5,154500
+Microsoft Laptop 0924,Microsoft,16,2048,AMD Ryzen 9,AMD Radeon,15.6,macOS,2.0,136200
+Samsung Laptop 0925,Samsung,32,1024,AMD Ryzen 7,Intel UHD,14.0,Windows 10,2.6,90200
+ASUS Laptop 0926,ASUS,32,512,AMD Ryzen 3,NVIDIA RTX 4060,16.0,Windows 10,2.7,100900
+Acer Laptop 0927,Acer,64,256,Intel Core i7,Intel Iris Xe,15.6,Linux,2.0,107300
+LG Laptop 0928,LG,4,2048,AMD Ryzen 5,NVIDIA RTX 4060,16.0,Linux,1.9,104600
+Samsung Laptop 0929,Samsung,16,1024,AMD Ryzen 7,Intel UHD,14.0,Linux,1.6,69600
+Apple Laptop 0930,Apple,4,1024,Intel Core i5,NVIDIA RTX 2050,14.0,macOS,1.4,95800
+Apple Laptop 0931,Apple,4,512,AMD Ryzen 5,NVIDIA GTX 1650,15.6,macOS,1.6,90500
+ASUS Laptop 0932,ASUS,64,512,AMD Ryzen 3,Intel UHD,15.6,macOS,2.5,109600
+MSI Laptop 0933,MSI,64,256,AMD Ryzen 9,AMD Radeon,16.0,Windows 10,1.6,132000
+Samsung Laptop 0934,Samsung,8,2048,AMD Ryzen 9,NVIDIA RTX 3050,13.3,macOS,2.6,133200
+MSI Laptop 0935,MSI,8,2048,AMD Ryzen 9,Intel UHD,15.6,Windows 10,2.1,100700
+Acer Laptop 0936,Acer,4,2048,AMD Ryzen 5,NVIDIA RTX 3050,14.0,Linux,1.9,83200
+Microsoft Laptop 0937,Microsoft,16,1024,Intel Core i3,Intel UHD,14.0,Windows 10,2.8,58800
+LG Laptop 0938,LG,64,2048,AMD Ryzen 7,NVIDIA GTX 1650,16.0,Windows 11,2.1,141700
+Samsung Laptop 0939,Samsung,4,1024,AMD Ryzen 9,NVIDIA RTX 2050,13.3,Windows 10,1.4,96600
+Lenovo Laptop 0940,Lenovo,4,2048,Intel Core i3,AMD Radeon,14.0,Windows 11,2.7,56900
+Acer Laptop 0941,Acer,8,512,AMD Ryzen 3,Intel Iris Xe,16.0,Windows 11,1.8,38400
+Lenovo Laptop 0942,Lenovo,16,2048,AMD Ryzen 7,AMD Radeon,13.3,Windows 10,2.1,91200
+HP Laptop 0943,HP,32,512,Intel Core i7,NVIDIA GTX 1650,15.6,Linux,2.5,93000
+Lenovo Laptop 0944,Lenovo,64,1024,Intel Core i9,NVIDIA RTX 4070,15.6,Windows 10,1.2,186800
+Samsung Laptop 0945,Samsung,4,2048,Intel Core i9,NVIDIA RTX 3050,17.3,Linux,1.9,123000
+Dell Laptop 0946,Dell,4,1024,AMD Ryzen 9,NVIDIA RTX 3050,15.6,Linux,2.2,99900
+MSI Laptop 0947,MSI,8,512,AMD Ryzen 7,NVIDIA RTX 4070,16.0,Windows 10,2.3,117800
+MSI Laptop 0948,MSI,4,512,Intel Core i7,NVIDIA RTX 2050,17.3,macOS,2.3,88600
+ASUS Laptop 0949,ASUS,32,2048,Intel Core i5,NVIDIA RTX 3050,13.3,Windows 11,2.0,109100
+MSI Laptop 0950,MSI,32,512,AMD Ryzen 3,NVIDIA GTX 1650,17.3,Windows 11,1.9,74900
+Samsung Laptop 0951,Samsung,32,1024,AMD Ryzen 7,NVIDIA GTX 1650,16.0,Windows 11,1.2,96700
+Lenovo Laptop 0952,Lenovo,16,2048,AMD Ryzen 9,NVIDIA RTX 4070,13.3,Windows 11,2.1,155800
+Samsung Laptop 0953,Samsung,8,2048,AMD Ryzen 3,AMD Radeon,14.0,Windows 11,2.2,61600
+Acer Laptop 0954,Acer,4,2048,Intel Core i7,Intel Iris Xe,13.3,macOS,1.4,91400
+Lenovo Laptop 0955,Lenovo,8,256,Intel Core i9,NVIDIA RTX 4070,13.3,Windows 11,1.8,125200
+Samsung Laptop 0956,Samsung,4,256,Intel Core i3,NVIDIA RTX 4060,14.0,Windows 10,1.8,63000
+ASUS Laptop 0957,ASUS,4,256,AMD Ryzen 7,Intel UHD,13.3,macOS,2.5,63100
+ASUS Laptop 0958,ASUS,4,512,Intel Core i7,Intel UHD,16.0,Windows 11,2.5,58900
+Microsoft Laptop 0959,Microsoft,8,512,AMD Ryzen 7,NVIDIA RTX 4060,13.3,Windows 10,1.5,102000
+Apple Laptop 0960,Apple,8,256,AMD Ryzen 7,NVIDIA RTX 3050,13.3,macOS,1.8,113200
+ASUS Laptop 0961,ASUS,4,1024,AMD Ryzen 5,Intel UHD,13.3,Windows 10,1.9,55400
+Samsung Laptop 0962,Samsung,4,512,AMD Ryzen 3,Intel Iris Xe,17.3,macOS,2.8,60900
+Lenovo Laptop 0963,Lenovo,16,512,AMD Ryzen 5,NVIDIA RTX 4070,13.3,macOS,1.2,126400
+Samsung Laptop 0964,Samsung,32,512,Intel Core i3,NVIDIA GTX 1650,13.3,Windows 11,1.7,67800
+ASUS Laptop 0965,ASUS,64,256,Intel Core i3,AMD Radeon,15.6,Linux,1.7,87500
+MSI Laptop 0966,MSI,8,256,Intel Core i9,NVIDIA RTX 4070,15.6,Windows 10,1.6,129700
+Microsoft Laptop 0967,Microsoft,32,1024,Intel Core i3,NVIDIA GTX 1650,15.6,macOS,1.6,103000
+Dell Laptop 0968,Dell,8,512,AMD Ryzen 7,NVIDIA RTX 3050,14.0,Linux,2.2,75300
+Samsung Laptop 0969,Samsung,4,512,Intel Core i3,AMD Radeon,14.0,Windows 10,1.3,40800
+Microsoft Laptop 0970,Microsoft,8,512,Intel Core i5,NVIDIA RTX 4060,16.0,macOS,1.5,105400
+ASUS Laptop 0971,ASUS,32,512,Intel Core i9,NVIDIA RTX 2050,15.6,Linux,2.7,113500
+Acer Laptop 0972,Acer,32,256,AMD Ryzen 5,NVIDIA RTX 4060,16.0,Windows 10,2.0,102200
+Microsoft Laptop 0973,Microsoft,64,2048,Intel Core i7,NVIDIA RTX 4070,13.3,Linux,1.9,187900
+Acer Laptop 0974,Acer,64,512,Intel Core i7,NVIDIA RTX 2050,16.0,Linux,1.7,122200
+MSI Laptop 0975,MSI,64,2048,Intel Core i5,NVIDIA RTX 3050,14.0,Linux,1.5,139700
+Dell Laptop 0976,Dell,4,1024,AMD Ryzen 9,NVIDIA RTX 4060,16.0,Linux,2.8,118700
+MSI Laptop 0977,MSI,32,1024,Intel Core i5,NVIDIA RTX 4060,13.3,Windows 11,1.8,117000
+Lenovo Laptop 0978,Lenovo,8,2048,AMD Ryzen 3,NVIDIA RTX 3050,17.3,Linux,2.2,84700
+Dell Laptop 0979,Dell,32,2048,Intel Core i9,NVIDIA GTX 1650,16.0,Windows 11,2.7,131700
+Dell Laptop 0980,Dell,8,1024,AMD Ryzen 9,AMD Radeon,15.6,Windows 10,2.2,86700
+Dell Laptop 0981,Dell,4,256,AMD Ryzen 7,NVIDIA RTX 4060,17.3,Windows 11,2.0,90100
+MSI Laptop 0982,MSI,8,2048,AMD Ryzen 3,NVIDIA RTX 2050,17.3,Linux,2.1,84900
+HP Laptop 0983,HP,4,1024,Intel Core i7,NVIDIA RTX 2050,14.0,Linux,2.3,69700
+Lenovo Laptop 0984,Lenovo,32,256,Intel Core i5,Intel Iris Xe,16.0,Linux,2.2,71900
+Lenovo Laptop 0985,Lenovo,8,1024,Intel Core i7,AMD Radeon,14.0,Linux,1.5,64000
+Samsung Laptop 0986,Samsung,64,512,Intel Core i7,NVIDIA GTX 1650,13.3,Windows 10,2.5,114700
+Acer Laptop 0987,Acer,32,2048,Intel Core i5,AMD Radeon,13.3,macOS,1.3,100300
+Acer Laptop 0988,Acer,4,1024,Intel Core i3,NVIDIA GTX 1650,16.0,Linux,2.3,45300
+Dell Laptop 0989,Dell,4,1024,Intel Core i3,Intel UHD,13.3,Windows 10,2.0,33700
+MSI Laptop 0990,MSI,64,1024,AMD Ryzen 9,NVIDIA RTX 4070,15.6,Linux,1.7,195600
+Apple Laptop 0991,Apple,8,1024,AMD Ryzen 7,NVIDIA RTX 4060,17.3,macOS,1.3,143000
+Apple Laptop 0992,Apple,4,256,AMD Ryzen 9,NVIDIA RTX 4060,14.0,macOS,1.2,137100
+Microsoft Laptop 0993,Microsoft,16,512,AMD Ryzen 5,NVIDIA RTX 4070,17.3,Linux,2.0,120400
+Dell Laptop 0994,Dell,16,256,AMD Ryzen 5,Intel UHD,15.6,Linux,1.6,56200
+MSI Laptop 0995,MSI,64,256,AMD Ryzen 5,NVIDIA RTX 4060,16.0,Windows 11,2.4,135900
+LG Laptop 0996,LG,8,512,Intel Core i3,AMD Radeon,16.0,Windows 11,1.7,47700
+Samsung Laptop 0997,Samsung,8,2048,Intel Core i5,NVIDIA RTX 4070,17.3,Windows 10,1.6,124900
+HP Laptop 0998,HP,4,2048,Intel Core i3,AMD Radeon,15.6,Linux,2.4,57100
+Acer Laptop 0999,Acer,32,256,Intel Core i7,NVIDIA RTX 4070,13.3,macOS,2.6,146700
+LG Laptop 1000,LG,4,1024,AMD Ryzen 7,NVIDIA RTX 4060,17.3,Linux,2.5,102200
